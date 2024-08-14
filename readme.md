@@ -6,14 +6,14 @@ Waze: https://ul.waze.com/ul?ll=9.9785083%2C-84.0880437&navigate=yes
 
 <iframe src = "https://maps.google.com/maps?q=9.9785083,-84.0880437&hl=es;z=14&amp;output=embed"></iframe>
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3929.4999815966908!2d-84.09532522496913!3d9.975494190128682!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOcKwNTgnMzEuOCJOIDg0wrAwNSczMy45Ilc!5e0!3m2!1sen!2scr!4v1723641787852!5m2!1sen!2scr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 
 
 **2: Natalia (Mamá de Matías) -> Damaris Soto**
 Distance: 0.4 km
 Duration: 2 mins
 Waze: https://ul.waze.com/ul?ll=9.9810468%2C-84.08915650000002&navigate=yes
-
+<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3929.4999815966908!2d-84.09532522496913!3d9.975494190128682!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOcKwNTgnMzEuOCJOIDg0wrAwNSczMy45Ilc!5e0!3m2!1sen!2scr!4v1723641787852!5m2!1sen!2scr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 **3: Damaris Soto -> Ligia de Granda**
 Distance: 0.4 km
 Duration: 2 mins
