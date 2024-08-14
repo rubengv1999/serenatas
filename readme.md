@@ -8,28 +8,40 @@
 
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyCmMAR_zQjkBg5u66GUnou9-AHH7iQvsjQ&origin=9.9794875,-84.0879526&destination=9.9785083,-84.0880437' allowfullscreen></iframe>
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyCmMAR_zQjkBg5u66GUnou9-AHH7iQvsjQ&q=9.9785083,-84.0880437&zoom=19&maptype=satellite' allowfullscreen></iframe>
+
 ## 2: Natalia (Mamá de Matías) -> Damaris Soto
+
 - **Distance:** 0.4 km
 - **Duration:** 2 mins
 - [Waze Directions](https://ul.waze.com/ul?ll=9.9810468%2C-84.08915650000002&navigate=yes)
+
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyCmMAR_zQjkBg5u66GUnou9-AHH7iQvsjQ&origin=9.9785083,-84.0880437&destination=9.9810468,-84.08915650000002' allowfullscreen></iframe>
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyCmMAR_zQjkBg5u66GUnou9-AHH7iQvsjQ&q=9.9810468,-84.08915650000002&zoom=19&maptype=satellite' allowfullscreen></iframe>
+
 ## 3: Damaris Soto -> Ligia de Granda
+
 - **Distance:** 0.4 km
 - **Duration:** 2 mins
 - [Waze Directions](https://ul.waze.com/ul?ll=9.9835352%2C-84.0902663&navigate=yes)
+
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyCmMAR_zQjkBg5u66GUnou9-AHH7iQvsjQ&origin=9.9810468,-84.08915650000002&destination=9.9835352,-84.0902663' allowfullscreen></iframe>
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyCmMAR_zQjkBg5u66GUnou9-AHH7iQvsjQ&q=9.9835352,-84.0902663&zoom=19&maptype=satellite' allowfullscreen></iframe>
+
 ## 4: Ligia de Granda -> Daniela de Fabiana
+
 - **Distance:** 0.2 km
 - **Duration:** 1 min
 - [Waze Directions](https://ul.waze.com/ul?ll=9.9839598%2C-84.09192209999999&navigate=yes)
+
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyCmMAR_zQjkBg5u66GUnou9-AHH7iQvsjQ&origin=9.9835352,-84.0902663&destination=9.9839598,-84.09192209999999' allowfullscreen></iframe>
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyCmMAR_zQjkBg5u66GUnou9-AHH7iQvsjQ&q=9.9839598,-84.09192209999999&zoom=19&maptype=satellite' allowfullscreen></iframe>
+
 ## 5: Daniela de Fabiana -> Anita Arguedas
+
 - **Distance:** 0.4 km
 - **Duration:** 1 min
 - [Waze Directions](https://ul.waze.com/ul?ll=9.9855354%2C-84.09409509999999&navigate=yes)
+
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyCmMAR_zQjkBg5u66GUnou9-AHH7iQvsjQ&origin=9.9839598,-84.09192209999999&destination=9.9855354,-84.09409509999999' allowfullscreen></iframe>
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyCmMAR_zQjkBg5u66GUnou9-AHH7iQvsjQ&q=9.9855354,-84.09409509999999&zoom=19&maptype=satellite' allowfullscreen></iframe>
 ## 6: Anita Arguedas -> Ana de Güendell
