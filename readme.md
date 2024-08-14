@@ -21,11 +21,11 @@ Duration: 2 mins
 Waze: https://ul.waze.com/ul?ll=9.9835352%2C-84.0902663&navigate=yes
 
 <iframe
-  width="450"
+  width="400"
   height="250"
   frameborder="0" style="border:0"
   referrerpolicy="no-referrer-when-downgrade"
-  src="https://www.google.com/maps/embed/v1/search?key=AIzaSyCmMAR_zQjkBg5u66GUnou9-AHH7iQvsjQ&q=9.9785083,-84.0880437"
+  src="https://www.google.com/maps/embed/v1/place?key=AIzaSyCmMAR_zQjkBg5u66GUnou9-AHH7iQvsjQ&q=9.9785083,-84.0880437"
   allowfullscreen>
 </iframe>
 
@@ -33,6 +33,15 @@ Waze: https://ul.waze.com/ul?ll=9.9835352%2C-84.0902663&navigate=yes
 Distance: 0.2 km
 Duration: 1 min
 Waze: https://ul.waze.com/ul?ll=9.9839598%2C-84.09192209999999&navigate=yes
+
+<iframe
+  width="400"
+  height="250"
+  frameborder="0" style="border:0"
+  referrerpolicy="no-referrer-when-downgrade"
+  src="https://www.google.com/maps/embed/v1/search?key=AIzaSyCmMAR_zQjkBg5u66GUnou9-AHH7iQvsjQ&q=9.9785083,-84.0880437"
+  allowfullscreen>
+</iframe>
 
 **5: Daniela de Fabiana -> Anita Arguedas**
 Distance: 0.4 km
