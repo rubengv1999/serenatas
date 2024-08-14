@@ -329,5 +329,5 @@
 
 ## Results
 
-*Total Distance:* 37.5 km
-*Total Duration:* 7 hours 38 mins
+- **Total Distance:** 37.5 km
+- **Total Duration:** 7 hours 38 mins
