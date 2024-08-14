@@ -4,9 +4,14 @@ Distance: 0.1 km
 Duration: 1 min
 Waze: https://ul.waze.com/ul?ll=9.9785083%2C-84.0880437&navigate=yes
 
-<iframe src = "https://maps.google.com/maps?q=9.9785083,-84.0880437&hl=es;z=14&amp;output=embed"></iframe>
-
-
+<iframe
+  width="400"
+  height="250"
+  frameborder="0" style="border:0"
+  referrerpolicy="no-referrer-when-downgrade"
+  src="https://www.google.com/maps/embed/v1/place?q=9.9785083,-84.0880437"
+  allowfullscreen>
+</iframe>
 
 
 **2: Natalia (Mamá de Matías) -> Damaris Soto**
