@@ -1,17 +1,17 @@
-https://www.google.com/maps/dir/9.989429,-84.084831/9.9945277,-84.0876643/9.9925096,-84.0837071/9.9970064,-84.0632653/9.9849376,-84.0743472/9.9789652,-84.0723989/9.9771438,-84.0715458/9.9792928,-84.0817665/9.9765131,-84.0868044/9.9785208,-84.0881641/9.9800777,-84.0875004/9.9859803,-84.0877508/9.9864661,-84.0891939/9.9855343,-84.0941144/9.9869868,-84.0954401/9.9831307,-84.1025462/9.9856501,-84.0998875/9.9785763,-84.0920085/9.9773545,-84.0918268/9.9759551,-84.0929117/9.9714682,-84.1008826/9.9748803,-84.0880848/9.9762133,-84.0880807/9.979486,-84.087929
+https://www.google.com/maps/dir/9.989429,-84.084831/9.994281,-84.087463/9.9925096,-84.0837071/9.9970064,-84.0632653/9.9849376,-84.0743472/9.9789652,-84.0723989/9.9771438,-84.0715458/9.9792928,-84.0817665/9.9765131,-84.0868044/9.9785208,-84.0881641/9.9800777,-84.0875004/9.9859803,-84.0877508/9.9864661,-84.0891939/9.9855343,-84.0941144/9.9869868,-84.0954401/9.983301,-84.101471/9.9856501,-84.0998875/9.9785763,-84.0920085/9.9773545,-84.0918268/9.9759551,-84.0929117/9.9714682,-84.1008826/9.9748803,-84.0880848/9.9762133,-84.0880807/9.979486,-84.087929
 
 ## 1: Rafael Peinado / Noé / Christian / Piti / Rafa / Aurio / Lucho / Luis B / Juan Ledezma / Sergio Estrada -> Papá de Sebas
-- **Distance:** 1.1 km
+- **Distance:** 1.0 km
 - **Duration:** 4 mins
-- [Waze Directions](https://ul.waze.com/ul?ll=9.9945284%2C-84.0876598&navigate=yes)
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9894608,-84.08483319999999&destination=9.9945284,-84.0876598' allowfullscreen></iframe>
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9945284,-84.0876598&zoom=19&maptype=satellite' allowfullscreen></iframe>
+- [Waze Directions](https://ul.waze.com/ul?ll=9.9942577%2C-84.08761779999999&navigate=yes)
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9894608,-84.08483319999999&destination=9.9942577,-84.08761779999999' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9942577,-84.08761779999999&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
 ## 2: Papá de Sebas -> Gerson Rojas
-- **Distance:** 0.7 km
+- **Distance:** 0.6 km
 - **Duration:** 3 mins
 - [Waze Directions](https://ul.waze.com/ul?ll=9.9924431%2C-84.0837056&navigate=yes)
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9945284,-84.0876598&destination=9.9924431,-84.0837056' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9942577,-84.08761779999999&destination=9.9924431,-84.0837056' allowfullscreen></iframe>
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9924431,-84.0837056&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
 ## 3: Gerson Rojas -> Carlos Leitón Quesada
@@ -99,17 +99,17 @@ https://www.google.com/maps/dir/9.989429,-84.084831/9.9945277,-84.0876643/9.9925
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9870138,-84.0954383&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
 ## 15: Sergio Roldán -> Papá de Yara
-- **Distance:** 1.3 km
-- **Duration:** 4 mins
-- [Waze Directions](https://ul.waze.com/ul?ll=9.983116299999999%2C-84.1025197&navigate=yes)
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9870138,-84.0954383&destination=9.983116299999999,-84.1025197' allowfullscreen></iframe>
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.983116299999999,-84.1025197&zoom=19&maptype=satellite' allowfullscreen></iframe>
+- **Distance:** 1.1 km
+- **Duration:** 3 mins
+- [Waze Directions](https://ul.waze.com/ul?ll=9.9832778%2C-84.10148459999999&navigate=yes)
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9870138,-84.0954383&destination=9.9832778,-84.10148459999999' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9832778,-84.10148459999999&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
 ## 16: Papá de Yara -> Mailor Gómez Benavidez
-- **Distance:** 0.5 km
-- **Duration:** 2 mins
+- **Distance:** 0.4 km
+- **Duration:** 1 min
 - [Waze Directions](https://ul.waze.com/ul?ll=9.985659%2C-84.0998831&navigate=yes)
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.983116299999999,-84.1025197&destination=9.985659,-84.0998831' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9832778,-84.10148459999999&destination=9.985659,-84.0998831' allowfullscreen></iframe>
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.985659,-84.0998831&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
 ## 17: Mailor Gómez Benavidez -> Ezequiel Álvarez Cabezas
@@ -162,5 +162,5 @@ https://www.google.com/maps/dir/9.989429,-84.084831/9.9945277,-84.0876643/9.9925
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9794875,-84.0879526&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
 ## Results
-- **Total Distance:** 22.114 km
-- **Total Duration:** 3.0 hours 50.0 mins
+- **Total Distance:** 21.729 km
+- **Total Duration:** 3.0 hours 49.0 mins
