@@ -1,6 +1,6 @@
 # Serenata Padres 2025
 
-[📍 Ruta completa en Google Maps](https://www.google.com/maps/dir/9.989429,-84.084831/9.994281,-84.087463/9.9925096,-84.0837071/9.9970064,-84.0632653/9.9849376,-84.0743472/9.9789652,-84.0723989/9.9771438,-84.0715458/9.9792928,-84.0817665/9.9765131,-84.0868044/9.9785208,-84.0881641/9.9800777,-84.0875004/9.9859803,-84.0877508/9.9864661,-84.0891939/9.9855343,-84.0941144/9.9869868,-84.0954401/9.983301,-84.101471/9.9856501,-84.0998875/9.9785763,-84.0920085/9.9773545,-84.0918268/9.9759551,-84.0929117/9.9714682,-84.1008826/9.9748803,-84.0880848/9.9762133,-84.0880807/9.979486,-84.087929)
+[📍 Ruta completa en Google Maps](https://www.google.com/maps/dir/9.989429,-84.084831/9.994281,-84.087463/9.9925096,-84.0837071/9.9970064,-84.0632653/9.9849376,-84.0743472/9.9789652,-84.0723989/9.9771438,-84.0715458/9.9792928,-84.0817665/9.9765131,-84.0868044/9.9785208,-84.0881641/9.9800777,-84.0875004/9.9859803,-84.0877508/9.9864661,-84.0891939/9.9855343,-84.0941144/9.9869868,-84.0954401/9.983301,-84.101471/9.9856501,-84.0998875/9.9785763,-84.0920085/9.9773545,-84.0918268/9.9759551,-84.0929117/9.9714682,-84.1008826/9.971185,-84.096161/9.9748803,-84.0880848/9.9762133,-84.0880807/9.979486,-84.087929)
 
 ## 1: Inicio -> Rafael Peinado / Noé / Christian / Piti / Rafa / Aurio / Lucho / Luis B / Juan Ledezma / Sergio Estrada
 - **Distance:** 1 m
@@ -149,21 +149,28 @@
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9760577,-84.09290399999999&destination=9.9714758,-84.1008648' allowfullscreen></iframe>
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9714758,-84.1008648&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
-## 22: Mario Solano (Padre e hijo) / Raymundo -> Mauricio Carballo
-- **Distance:** 1.6 km
-- **Duration:** 5 mins
+## 22: Mario Solano (Padre e hijo) / Raymundo -> Francisco Papá de Ian
+- **Distance:** 0.8 km
+- **Duration:** 4 mins
+- [Waze Directions](https://ul.waze.com/ul?ll=9.971283%2C-84.0961853&navigate=yes)
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9714758,-84.1008648&destination=9.971283,-84.0961853' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.971283,-84.0961853&zoom=19&maptype=satellite' allowfullscreen></iframe>
+
+## 23: Francisco Papá de Ian -> Mauricio Carballo
+- **Distance:** 1.2 km
+- **Duration:** 4 mins
 - [Waze Directions](https://ul.waze.com/ul?ll=9.974739099999999%2C-84.0880974&navigate=yes)
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9714758,-84.1008648&destination=9.974739099999999,-84.0880974' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.971283,-84.0961853&destination=9.974739099999999,-84.0880974' allowfullscreen></iframe>
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.974739099999999,-84.0880974&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
-## 23: Mauricio Carballo -> Manuel Esquivel (Mamá de Cami y Dani)
+## 24: Mauricio Carballo -> Manuel Esquivel (Mamá de Cami y Dani)
 - **Distance:** 0.2 km
 - **Duration:** 1 min
 - [Waze Directions](https://ul.waze.com/ul?ll=9.976244%2C-84.0880822&navigate=yes)
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.974739099999999,-84.0880974&destination=9.976244,-84.0880822' allowfullscreen></iframe>
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.976244,-84.0880822&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
-## 24: Manuel Esquivel (Mamá de Cami y Dani) -> Iglesia
+## 25: Manuel Esquivel (Mamá de Cami y Dani) -> Iglesia
 - **Distance:** 0.4 km
 - **Duration:** 1 min
 - [Waze Directions](https://ul.waze.com/ul?ll=9.9794875%2C-84.0879526&navigate=yes)
@@ -171,5 +178,5 @@
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9794875,-84.0879526&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
 ## Results
-- **Total Distance:** 21.729 km
-- **Total Duration:** 3.0 hours 56.0 mins
+- **Total Distance:** 22.133 km
+- **Total Duration:** 4.0 hours 7.0 mins
