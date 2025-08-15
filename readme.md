@@ -1,4 +1,5 @@
 # Serenata Madres 2025
+14 de agosto del 2025 -> 15 de agosto del 2025.
 
 ## 1: Inicio (Ruty) -> Francinny Alvarado
 - **Distance:** 4.5 km
