@@ -1,5 +1,4 @@
 # Serenata Madres 2025
-14 de agosto del 2025 -> 15 de agosto del 2025.
 
 ## 1: Inicio (Ruty) -> Francinny Alvarado
 - **Distance:** 4.5 km
@@ -99,146 +98,160 @@
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9646051,-84.0611012&destination=9.9712149,-84.0964682' allowfullscreen></iframe>
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9712149,-84.0964682&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
-## 15: Rubí (Antonieta) -> Jeimy (Mamá de Kristel)Celia / Isabel/ Yolanda/Teresita
+## 15: Rubí (Antonieta) -> Jeimy (Mamá de Kristel)
 - **Distance:** 0.6 km
 - **Duration:** 3 mins
 - [Waze Directions](https://ul.waze.com/ul?ll=9.9689357%2C-84.09708549999999&navigate=yes)
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9712149,-84.0964682&destination=9.9689357,-84.09708549999999' allowfullscreen></iframe>
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9689357,-84.09708549999999&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
-## 16: Jeimy (Mamá de Kristel)Celia / Isabel/ Yolanda/Teresita -> Yeimy (Mamá de Yara)
+## 16: Jeimy (Mamá de Kristel) -> Celia / Isabel/ Yolanda/Teresita
 - **Distance:** 0.6 km
 - **Duration:** 2 mins
 - [Waze Directions](https://ul.waze.com/ul?ll=9.9714758%2C-84.1008648&navigate=yes)
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9689357,-84.09708549999999&destination=9.9714758,-84.1008648' allowfullscreen></iframe>
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9714758,-84.1008648&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
-## 17: Yeimy (Mamá de Yara) -> Cristina vargas romero
+## 17: Celia / Isabel/ Yolanda/Teresita -> Yeimy (Mamá de Yara)
 - **Distance:** 0.5 km
 - **Duration:** 2 mins
 - [Waze Directions](https://ul.waze.com/ul?ll=9.973393%2C-84.0984307&navigate=yes)
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9714758,-84.1008648&destination=9.973393,-84.0984307' allowfullscreen></iframe>
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.973393,-84.0984307&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
-## 18: Cristina vargas romero -> Ruth Mamá de Andrea
+## 18: Yeimy (Mamá de Yara) -> Cristina vargas romero
 - **Distance:** 1.1 km
 - **Duration:** 3 mins
 - [Waze Directions](https://ul.waze.com/ul?ll=9.9798375%2C-84.0970796&navigate=yes)
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.973393,-84.0984307&destination=9.9798375,-84.0970796' allowfullscreen></iframe>
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9798375,-84.0970796&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
-## 19: Ruth Mamá de Andrea -> Ligia (de Don Mailor)
+## 19: Cristina vargas romero -> Ruth Mamá de Andrea
 - **Distance:** 0.9 km
 - **Duration:** 2 mins
 - [Waze Directions](https://ul.waze.com/ul?ll=9.982554000000002%2C-84.1033738&navigate=yes)
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9798375,-84.0970796&destination=9.982554000000002,-84.1033738' allowfullscreen></iframe>
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.982554000000002,-84.1033738&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
-## 20: Ligia (de Don Mailor) -> Marlene/ Andrea
+## 20: Ruth Mamá de Andrea -> Ligia (de Don Mailor)
 - **Distance:** 0.7 km
 - **Duration:** 2 mins
 - [Waze Directions](https://ul.waze.com/ul?ll=9.985659%2C-84.0998831&navigate=yes)
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.982554000000002,-84.1033738&destination=9.985659,-84.0998831' allowfullscreen></iframe>
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.985659,-84.0998831&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
-## 21: Marlene/ Andrea -> Marielos Ruiz
+## 21: Ligia (de Don Mailor) -> Marlene/ Andrea
 - **Distance:** 0.1 km
 - **Duration:** 1 min
 - [Waze Directions](https://ul.waze.com/ul?ll=9.9852417%2C-84.0986729&navigate=yes)
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.985659,-84.0998831&destination=9.9852417,-84.0986729' allowfullscreen></iframe>
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9852417,-84.0986729&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
-## 22: Marielos Ruiz -> Enid de Sergio
+## 22: Marlene/ Andrea -> Marielos Ruiz
 - **Distance:** 0.4 km
 - **Duration:** 2 mins
 - [Waze Directions](https://ul.waze.com/ul?ll=9.9851265%2C-84.0976616&navigate=yes)
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9852417,-84.0986729&destination=9.9851265,-84.0976616' allowfullscreen></iframe>
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9851265,-84.0976616&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
-## 23: Enid de Sergio -> Laura Villalobos Vargas / Teresa
+## 23: Marielos Ruiz -> Enid de Sergio
 - **Distance:** 0.5 km
 - **Duration:** 2 mins
 - [Waze Directions](https://ul.waze.com/ul?ll=9.9870138%2C-84.0954383&navigate=yes)
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9851265,-84.0976616&destination=9.9870138,-84.0954383' allowfullscreen></iframe>
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9870138,-84.0954383&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
-## 24: Laura Villalobos Vargas / Teresa -> Paola Longui
+## 24: Enid de Sergio -> Laura Villalobos Vargas / Teresa
 - **Distance:** 1.1 km
 - **Duration:** 3 mins
 - [Waze Directions](https://ul.waze.com/ul?ll=9.9825087%2C-84.092147&navigate=yes)
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9870138,-84.0954383&destination=9.9825087,-84.092147' allowfullscreen></iframe>
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9825087,-84.092147&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
-## 25: Paola Longui -> Nury (Mamá de Shirley)
+## 25: Laura Villalobos Vargas / Teresa -> Paola Longui
 - **Distance:** 0.5 km
 - **Duration:** 2 mins
 - [Waze Directions](https://ul.waze.com/ul?ll=9.9786416%2C-84.09200229999999&navigate=yes)
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9825087,-84.092147&destination=9.9786416,-84.09200229999999' allowfullscreen></iframe>
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9786416,-84.09200229999999&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
-## 26: Nury (Mamá de Shirley) -> Rita de Chapu
+## 26: Paola Longui -> Nury (Mamá de Shirley)
 - **Distance:** 0.4 km
 - **Duration:** 2 mins
 - [Waze Directions](https://ul.waze.com/ul?ll=9.9760151%2C-84.09240659999999&navigate=yes)
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9786416,-84.09200229999999&destination=9.9760151,-84.09240659999999' allowfullscreen></iframe>
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9760151,-84.09240659999999&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
-## 27: Rita de Chapu -> Kathia de Carballo
+## 27: Nury (Mamá de Shirley) -> Rita de Chapu
 - **Distance:** 94 m
 - **Duration:** 1 min
 - [Waze Directions](https://ul.waze.com/ul?ll=9.9754942%2C-84.09275029999999&navigate=yes)
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9760151,-84.09240659999999&destination=9.9754942,-84.09275029999999' allowfullscreen></iframe>
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9754942,-84.09275029999999&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
-## 28: Kathia de Carballo -> Olga Castro Porras
+## 28: Rita de Chapu -> Kathia de Carballo
 - **Distance:** 0.6 km
 - **Duration:** 2 mins
 - [Waze Directions](https://ul.waze.com/ul?ll=9.974739099999999%2C-84.0880974&navigate=yes)
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9754942,-84.09275029999999&destination=9.974739099999999,-84.0880974' allowfullscreen></iframe>
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.974739099999999,-84.0880974&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
-## 29: Olga Castro Porras -> Argel Zamora / Maricela Zamora / Verónica (Hija Argel)
+## 29: Kathia de Carballo -> Olga Castro Porras
 - **Distance:** 0.8 km
 - **Duration:** 2 mins
 - [Waze Directions](https://ul.waze.com/ul?ll=9.9735783%2C-84.0816134&navigate=yes)
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.974739099999999,-84.0880974&destination=9.9735783,-84.0816134' allowfullscreen></iframe>
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9735783,-84.0816134&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
-## 30: Argel Zamora / Maricela Zamora / Verónica (Hija Argel) -> María Gabriela Rojas Gutiérrez
+## 30: Olga Castro Porras -> Argel Zamora / Maricela Zamora / Verónica (Hija Argel)
 - **Distance:** 0.7 km
 - **Duration:** 2 mins
 - [Waze Directions](https://ul.waze.com/ul?ll=9.9763448%2C-84.0838862&navigate=yes)
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9735783,-84.0816134&destination=9.9763448,-84.0838862' allowfullscreen></iframe>
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9763448,-84.0838862&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
-## 31: María Gabriela Rojas Gutiérrez -> Paula (Mamá de Cami y Dani)
+## 31: Argel Zamora / Maricela Zamora / Verónica (Hija Argel) -> María Gabriela Rojas Gutiérrez
 - **Distance:** 0.4 km
 - **Duration:** 1 min
 - [Waze Directions](https://ul.waze.com/ul?ll=9.9778112%2C-84.08607959999999&navigate=yes)
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9763448,-84.0838862&destination=9.9778112,-84.08607959999999' allowfullscreen></iframe>
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9778112,-84.08607959999999&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
-## 32: Paula (Mamá de Cami y Dani) -> Natalia (Mamá de Matías)
+## 32: María Gabriela Rojas Gutiérrez -> Paula (Mamá de Cami y Dani)
 - **Distance:** 0.4 km
 - **Duration:** 1 min
 - [Waze Directions](https://ul.waze.com/ul?ll=9.976244%2C-84.0880822&navigate=yes)
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9778112,-84.08607959999999&destination=9.976244,-84.0880822' allowfullscreen></iframe>
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.976244,-84.0880822&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
-## 33: Natalia (Mamá de Matías) -> Reina
+## 33: Paula (Mamá de Cami y Dani) -> Natalia (Mamá de Matías)
 - **Distance:** 0.3 km
 - **Duration:** 1 min
 - [Waze Directions](https://ul.waze.com/ul?ll=9.9785083%2C-84.0880437&navigate=yes)
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.976244,-84.0880822&destination=9.9785083,-84.0880437' allowfullscreen></iframe>
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9785083,-84.0880437&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
-## 34: Reina -> Iglesia (Desiré)
+## 34: Natalia (Mamá de Matías) -> Reina
 - **Distance:** 0.1 km
 - **Duration:** 1 min
 - [Waze Directions](https://ul.waze.com/ul?ll=9.9795395%2C-84.0879492&navigate=yes)
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9785083,-84.0880437&destination=9.9795395,-84.0879492' allowfullscreen></iframe>
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9795395,-84.0879492&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
+## 35: Reina -> Iglesia (Desiré)
+- **Distance:** 0.1 km
+- **Duration:** 1 min
+- [Waze Directions](https://ul.waze.com/ul?ll=9.9800259%2C-84.0875051&navigate=yes)
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9795395,-84.0879492&destination=9.9800259,-84.0875051' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9800259,-84.0875051&zoom=19&maptype=satellite' allowfullscreen></iframe>
+
+## 36: Iglesia (Desiré) -> Iglesia (Desiré)
+- **Distance:** 0.1 km
+- **Duration:** 1 min
+- [Waze Directions](https://ul.waze.com/ul?ll=9.9794875%2C-84.0879526&navigate=yes)
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9800259,-84.0875051&destination=9.9794875,-84.0879526' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9794875,-84.0879526&zoom=19&maptype=satellite' allowfullscreen></iframe>
+
 ## Results
-- **Total Distance:** 32.914 km
-- **Total Duration:** 5.0 hours 44.0 mins
+- **Total Distance:** 33.126 km
+- **Total Duration:** 6 hours
