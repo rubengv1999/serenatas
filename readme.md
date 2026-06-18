@@ -1,257 +1,166 @@
-# Serenata Madres 2025
+# Serenata Padres 2025
 
-## 1: Inicio (Ruty) -> Francinny Alvarado
-- **Distance:** 4.5 km
-- **Duration:** 10 mins
-- [Waze Directions](https://ul.waze.com/ul?ll=9.9958957%2C-84.0955832&navigate=yes)
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9959603,-84.06709289999999&destination=9.9958957,-84.0955832' allowfullscreen></iframe>
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9958957,-84.0955832&zoom=19&maptype=satellite' allowfullscreen></iframe>
+## Ruta
 
-## 2: Francinny Alvarado -> Maiti (Sebas)
-- **Distance:** 1.7 km
-- **Duration:** 6 mins
-- [Waze Directions](https://ul.waze.com/ul?ll=9.994209399999999%2C-84.0876103&navigate=yes)
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9958957,-84.0955832&destination=9.994209399999999,-84.0876103' allowfullscreen></iframe>
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.994209399999999,-84.0876103&zoom=19&maptype=satellite' allowfullscreen></iframe>
+- Inicio: Iglesia Pueblo de Dios
+- Final: Iglesia Pueblo de Dios
 
-## 3: Maiti (Sebas) -> Marissa Rodríguez vargas
-- **Distance:** 1 m
-- **Duration:** 1 min
-- [Waze Directions](https://ul.waze.com/ul?ll=9.994209399999999%2C-84.0876103&navigate=yes)
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.994209399999999,-84.0876103&destination=9.994209399999999,-84.0876103' allowfullscreen></iframe>
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.994209399999999,-84.0876103&zoom=19&maptype=satellite' allowfullscreen></iframe>
+## Links de Google Maps por partes
 
-## 4: Marissa Rodríguez vargas -> Ariel
-- **Distance:** 0.6 km
-- **Duration:** 3 mins
-- [Waze Directions](https://ul.waze.com/ul?ll=9.9913439%2C-84.0863651&navigate=yes)
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.994209399999999,-84.0876103&destination=9.9913439,-84.0863651' allowfullscreen></iframe>
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9913439,-84.0863651&zoom=19&maptype=satellite' allowfullscreen></iframe>
+- [Parte 1](https://www.google.com/maps/dir/9.979486,-84.087929/9.9795352,-84.0878816/9.9800777,-84.0875004/9.988864,-84.081803/9.989429,-84.084831/9.9865562,-84.0874327/9.985588,-84.090403/9.9855343,-84.0941144/9.9869868,-84.0954401/9.9851347,-84.0976294/9.9856501,-84.0998875/9.999994,-84.093697/9.9958782,-84.0675092/9.9849376,-84.0743472/9.9811287,-84.0728917/9.9789652,-84.0723989/9.9771438,-84.0715458/9.9652136,-84.0692785/9.9716393,-84.0952956/9.968984,-84.097096/9.9714682,-84.1008826/9.9754875,-84.0926667/9.9759551,-84.0929117/9.9785763,-84.0920085/9.9773545,-84.0918268)
+- [Parte 2](https://www.google.com/maps/dir/9.9773545,-84.0918268/9.9748803,-84.0880848/9.9762133,-84.0880807/9.9765131,-84.0868044/9.977876,-84.086088/9.9785208,-84.0881641/9.979486,-84.087929)
 
-## 5: Ariel -> Xinia
-- **Distance:** 0.9 km
-- **Duration:** 3 mins
-- [Waze Directions](https://ul.waze.com/ul?ll=9.986725%2C-84.0860692&navigate=yes)
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9913439,-84.0863651&destination=9.986725,-84.0860692' allowfullscreen></iframe>
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.986725,-84.0860692&zoom=19&maptype=satellite' allowfullscreen></iframe>
+## Orden optimizado
 
-## 6: Xinia -> Tatiana mamá de Marcelo
-- **Distance:** 0.2 km
-- **Duration:** 1 min
-- [Waze Directions](https://ul.waze.com/ul?ll=9.9864997%2C-84.087435&navigate=yes)
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.986725,-84.0860692&destination=9.9864997,-84.087435' allowfullscreen></iframe>
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9864997,-84.087435&zoom=19&maptype=satellite' allowfullscreen></iframe>
+### 1. Noé Villanueva
+- Dirección: Centro, de la Pops 300 Este y 50 Sur
+- Coordenadas: 9.9795352, -84.0878816
+- [Waze](https://ul.waze.com/ul?ll=9.9795352%2C-84.0878816&navigate=yes)
 
-## 7: Tatiana mamá de Marcelo -> Marlen Alvarado Oviedo
-- **Distance:** 0.7 km
-- **Duration:** 2 mins
-- [Waze Directions](https://ul.waze.com/ul?ll=9.9871322%2C-84.0931276&navigate=yes)
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9864997,-84.087435&destination=9.9871322,-84.0931276' allowfullscreen></iframe>
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9871322,-84.0931276&zoom=19&maptype=satellite' allowfullscreen></iframe>
+### 2. Gerardo Fonseca
+- Dirección: Santo Domingo Centro
+- Coordenadas: 9.9800777, -84.0875004
+- [Waze](https://ul.waze.com/ul?ll=9.9800777%2C-84.0875004&navigate=yes)
 
-## 8: Marlen Alvarado Oviedo -> Daniela de Fabiana
-- **Distance:** 0.4 km
-- **Duration:** 2 mins
-- [Waze Directions](https://ul.waze.com/ul?ll=9.9839598%2C-84.09192209999999&navigate=yes)
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9871322,-84.0931276&destination=9.9839598,-84.09192209999999' allowfullscreen></iframe>
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9839598,-84.09192209999999&zoom=19&maptype=satellite' allowfullscreen></iframe>
+### 3. Randall Papá de Emilio
+- Dirección: Quizarco
+- Coordenadas: 9.988864, -84.081803
+- [Waze](https://ul.waze.com/ul?ll=9.988864%2C-84.081803&navigate=yes)
 
-## 9: Daniela de Fabiana -> Damaris Carpio
-- **Distance:** 0.1 km
-- **Duration:** 1 min
-- [Waze Directions](https://ul.waze.com/ul?ll=9.983855799999999%2C-84.0908218&navigate=yes)
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9839598,-84.09192209999999&destination=9.983855799999999,-84.0908218' allowfullscreen></iframe>
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.983855799999999,-84.0908218&zoom=19&maptype=satellite' allowfullscreen></iframe>
+### 4. Rafael Peinado
+- Dirección: Residencial Quizarco
+- Coordenadas: 9.989429, -84.084831
+- [Waze](https://ul.waze.com/ul?ll=9.989429%2C-84.084831&navigate=yes)
 
-## 10: Damaris Carpio -> Teresita Picado (Mariangel)
-- **Distance:** 1.0 km
-- **Duration:** 3 mins
-- [Waze Directions](https://ul.waze.com/ul?ll=9.984942499999999%2C-84.0822814&navigate=yes)
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.983855799999999,-84.0908218&destination=9.984942499999999,-84.0822814' allowfullscreen></iframe>
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.984942499999999,-84.0822814&zoom=19&maptype=satellite' allowfullscreen></iframe>
+### 5. Papá de Marcelo
+- Dirección: San Vicente, del Chino al Este
+- Coordenadas: 9.9865562, -84.0874327
+- [Waze](https://ul.waze.com/ul?ll=9.9865562%2C-84.0874327&navigate=yes)
 
-## 11: Teresita Picado (Mariangel) -> Stephanie Sandoval Jiménez
-- **Distance:** 0.1 km
-- **Duration:** 1 min
-- [Waze Directions](https://ul.waze.com/ul?ll=9.986110799999999%2C-84.08240669999999&navigate=yes)
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.984942499999999,-84.0822814&destination=9.986110799999999,-84.08240669999999' allowfullscreen></iframe>
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.986110799999999,-84.08240669999999&zoom=19&maptype=satellite' allowfullscreen></iframe>
+### 6. Gerson Rojas
+- Dirección: Super Yurusti
+- Coordenadas: 9.985588, -84.090403
+- [Waze](https://ul.waze.com/ul?ll=9.985588%2C-84.090403&navigate=yes)
 
-## 12: Stephanie Sandoval Jiménez -> Lupita de Oscar / Alejandra / Verónica
-- **Distance:** 1.3 km
-- **Duration:** 3 mins
-- [Waze Directions](https://ul.waze.com/ul?ll=9.9849321%2C-84.0743454&navigate=yes)
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.986110799999999,-84.08240669999999&destination=9.9849321,-84.0743454' allowfullscreen></iframe>
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9849321,-84.0743454&zoom=19&maptype=satellite' allowfullscreen></iframe>
+### 7. Bernal Brenes
+- Dirección: San Vicente, La Colonia
+- Coordenadas: 9.9855343, -84.0941144
+- [Waze](https://ul.waze.com/ul?ll=9.9855343%2C-84.0941144&navigate=yes)
 
-## 13: Lupita de Oscar / Alejandra / Verónica -> La China
-- **Distance:** 5.1 km
-- **Duration:** 11 mins
-- [Waze Directions](https://ul.waze.com/ul?ll=9.9646051%2C-84.0611012&navigate=yes)
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9849321,-84.0743454&destination=9.9646051,-84.0611012' allowfullscreen></iframe>
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9646051,-84.0611012&zoom=19&maptype=satellite' allowfullscreen></iframe>
+### 8. Sergio Roldán
+- Dirección: San Pablo, de Chantillí 200 Este, 50 Sur y 50Este
+- Coordenadas: 9.9869868, -84.0954401
+- [Waze](https://ul.waze.com/ul?ll=9.9869868%2C-84.0954401&navigate=yes)
 
-## 14: La China -> Rubí (Antonieta)
-- **Distance:** 5.2 km
-- **Duration:** 12 mins
-- [Waze Directions](https://ul.waze.com/ul?ll=9.9712149%2C-84.0964682&navigate=yes)
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9646051,-84.0611012&destination=9.9712149,-84.0964682' allowfullscreen></iframe>
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9712149,-84.0964682&zoom=19&maptype=satellite' allowfullscreen></iframe>
+### 9. Papá de Monica y Alvaro
+- Dirección: San Pablo, Urbanización Santa Fernanda
+- Coordenadas: 9.9851347, -84.0976294
+- [Waze](https://ul.waze.com/ul?ll=9.9851347%2C-84.0976294&navigate=yes)
 
-## 15: Rubí (Antonieta) -> Jeimy (Mamá de Kristel)
-- **Distance:** 0.6 km
-- **Duration:** 3 mins
-- [Waze Directions](https://ul.waze.com/ul?ll=9.9689357%2C-84.09708549999999&navigate=yes)
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9712149,-84.0964682&destination=9.9689357,-84.09708549999999' allowfullscreen></iframe>
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9689357,-84.09708549999999&zoom=19&maptype=satellite' allowfullscreen></iframe>
+### 10. Mailor Gómez Benavidez
+- Dirección: San Pablo, Urbanización Los Arcos
+- Coordenadas: 9.9856501, -84.0998875
+- [Waze](https://ul.waze.com/ul?ll=9.9856501%2C-84.0998875&navigate=yes)
 
-## 16: Jeimy (Mamá de Kristel) -> Celia / Isabel/ Yolanda/Teresita
-- **Distance:** 0.6 km
-- **Duration:** 2 mins
-- [Waze Directions](https://ul.waze.com/ul?ll=9.9714758%2C-84.1008648&navigate=yes)
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9689357,-84.09708549999999&destination=9.9714758,-84.1008648' allowfullscreen></iframe>
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9714758,-84.1008648&zoom=19&maptype=satellite' allowfullscreen></iframe>
+### 11. Marvin
+- Dirección: 
+- Coordenadas: 9.999994, -84.093697
+- [Waze](https://ul.waze.com/ul?ll=9.999994%2C-84.093697&navigate=yes)
 
-## 17: Celia / Isabel/ Yolanda/Teresita -> Yeimy (Mamá de Yara)
-- **Distance:** 0.5 km
-- **Duration:** 2 mins
-- [Waze Directions](https://ul.waze.com/ul?ll=9.973393%2C-84.0984307&navigate=yes)
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9714758,-84.1008648&destination=9.973393,-84.0984307' allowfullscreen></iframe>
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.973393,-84.0984307&zoom=19&maptype=satellite' allowfullscreen></iframe>
+### 12. Luis Gómez
+- Dirección: Tures, de Colegio Golden Valley 300 Sur
+- Coordenadas: 9.9958782, -84.0675092
+- [Waze](https://ul.waze.com/ul?ll=9.9958782%2C-84.0675092&navigate=yes)
 
-## 18: Yeimy (Mamá de Yara) -> Cristina vargas romero
-- **Distance:** 1.1 km
-- **Duration:** 3 mins
-- [Waze Directions](https://ul.waze.com/ul?ll=9.9798375%2C-84.0970796&navigate=yes)
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.973393,-84.0984307&destination=9.9798375,-84.0970796' allowfullscreen></iframe>
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9798375,-84.0970796&zoom=19&maptype=satellite' allowfullscreen></iframe>
+### 13. Oscar Alvarado Oviedo y Allan
+- Dirección: Sto Tomás, 50 Este de Iglesia Evangélica
+- Coordenadas: 9.9849376, -84.0743472
+- [Waze](https://ul.waze.com/ul?ll=9.9849376%2C-84.0743472&navigate=yes)
 
-## 19: Cristina vargas romero -> Ruth Mamá de Andrea
-- **Distance:** 0.9 km
-- **Duration:** 2 mins
-- [Waze Directions](https://ul.waze.com/ul?ll=9.982554000000002%2C-84.1033738&navigate=yes)
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9798375,-84.0970796&destination=9.982554000000002,-84.1033738' allowfullscreen></iframe>
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.982554000000002,-84.1033738&zoom=19&maptype=satellite' allowfullscreen></iframe>
+### 14. Rafael Zúñiga Arce
+- Dirección: Sto. Tomás, de Chumis 100 Este
+- Coordenadas: 9.9811287, -84.0728917
+- [Waze](https://ul.waze.com/ul?ll=9.9811287%2C-84.0728917&navigate=yes)
 
-## 20: Ruth Mamá de Andrea -> Ligia (de Don Mailor)
-- **Distance:** 0.7 km
-- **Duration:** 2 mins
-- [Waze Directions](https://ul.waze.com/ul?ll=9.985659%2C-84.0998831&navigate=yes)
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.982554000000002,-84.1033738&destination=9.985659,-84.0998831' allowfullscreen></iframe>
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.985659,-84.0998831&zoom=19&maptype=satellite' allowfullscreen></iframe>
+### 15. Luis Barrantes Sto. Tomás
+- Dirección: Sto Tomás
+- Coordenadas: 9.9789652, -84.0723989
+- [Waze](https://ul.waze.com/ul?ll=9.9789652%2C-84.0723989&navigate=yes)
 
-## 21: Ligia (de Don Mailor) -> Marlene/ Andrea
-- **Distance:** 0.1 km
-- **Duration:** 1 min
-- [Waze Directions](https://ul.waze.com/ul?ll=9.9852417%2C-84.0986729&navigate=yes)
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.985659,-84.0998831&destination=9.9852417,-84.0986729' allowfullscreen></iframe>
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9852417,-84.0986729&zoom=19&maptype=satellite' allowfullscreen></iframe>
+### 16. Papá de Josué de Anabelle
+- Dirección: Sto. Tomás
+- Coordenadas: 9.9771438, -84.0715458
+- [Waze](https://ul.waze.com/ul?ll=9.9771438%2C-84.0715458&navigate=yes)
 
-## 22: Marlene/ Andrea -> Marielos Ruiz
-- **Distance:** 0.4 km
-- **Duration:** 2 mins
-- [Waze Directions](https://ul.waze.com/ul?ll=9.9851265%2C-84.0976616&navigate=yes)
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9852417,-84.0986729&destination=9.9851265,-84.0976616' allowfullscreen></iframe>
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9851265,-84.0976616&zoom=19&maptype=satellite' allowfullscreen></iframe>
+### 17. Luis Barrantes (papá de Key)
+- Dirección: Tibás
+- Coordenadas: 9.9652136, -84.0692785
+- [Waze](https://ul.waze.com/ul?ll=9.9652136%2C-84.0692785&navigate=yes)
 
-## 23: Marielos Ruiz -> Enid de Sergio
-- **Distance:** 0.5 km
-- **Duration:** 2 mins
-- [Waze Directions](https://ul.waze.com/ul?ll=9.9870138%2C-84.0954383&navigate=yes)
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9851265,-84.0976616&destination=9.9870138,-84.0954383' allowfullscreen></iframe>
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9870138,-84.0954383&zoom=19&maptype=satellite' allowfullscreen></iframe>
+### 18. Aureo Aguilar Rodríguez
+- Dirección: Santa Rosa, 1 de Mayo
+- Coordenadas: 9.9716393, -84.0952956
+- [Waze](https://ul.waze.com/ul?ll=9.9716393%2C-84.0952956&navigate=yes)
 
-## 24: Enid de Sergio -> Laura Villalobos Vargas / Teresa
-- **Distance:** 1.1 km
-- **Duration:** 3 mins
-- [Waze Directions](https://ul.waze.com/ul?ll=9.9825087%2C-84.092147&navigate=yes)
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9870138,-84.0954383&destination=9.9825087,-84.092147' allowfullscreen></iframe>
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9825087,-84.092147&zoom=19&maptype=satellite' allowfullscreen></iframe>
+### 19. Juan Bolaños (Papá de Kris)
+- Dirección: Santa Rosa (trabajando)
+- Coordenadas: 9.968984, -84.097096
+- [Waze](https://ul.waze.com/ul?ll=9.968984%2C-84.097096&navigate=yes)
 
-## 25: Laura Villalobos Vargas / Teresa -> Paola Longui
-- **Distance:** 0.5 km
-- **Duration:** 2 mins
-- [Waze Directions](https://ul.waze.com/ul?ll=9.9786416%2C-84.09200229999999&navigate=yes)
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9825087,-84.092147&destination=9.9786416,-84.09200229999999' allowfullscreen></iframe>
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9786416,-84.09200229999999&zoom=19&maptype=satellite' allowfullscreen></iframe>
+### 20. Mario Solano (Padre e hijo) / Raymundo
+- Dirección: Santa Rosa
+- Coordenadas: 9.9714682, -84.1008826
+- [Waze](https://ul.waze.com/ul?ll=9.9714682%2C-84.1008826&navigate=yes)
 
-## 26: Paola Longui -> Nury (Mamá de Shirley)
-- **Distance:** 0.4 km
-- **Duration:** 2 mins
-- [Waze Directions](https://ul.waze.com/ul?ll=9.9760151%2C-84.09240659999999&navigate=yes)
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9786416,-84.09200229999999&destination=9.9760151,-84.09240659999999' allowfullscreen></iframe>
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9760151,-84.09240659999999&zoom=19&maptype=satellite' allowfullscreen></iframe>
+### 21. Sergio Estrada Calderón
+- Dirección: Centro, Por el Inbio
+- Coordenadas: 9.9754875, -84.0926667
+- [Waze](https://ul.waze.com/ul?ll=9.9754875%2C-84.0926667&navigate=yes)
 
-## 27: Nury (Mamá de Shirley) -> Rita de Chapu
-- **Distance:** 94 m
-- **Duration:** 1 min
-- [Waze Directions](https://ul.waze.com/ul?ll=9.9754942%2C-84.09275029999999&navigate=yes)
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9760151,-84.09240659999999&destination=9.9754942,-84.09275029999999' allowfullscreen></iframe>
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9754942,-84.09275029999999&zoom=19&maptype=satellite' allowfullscreen></iframe>
+### 22. Minor (papá de Génesis)
+- Dirección: Centro, por el Inbio
+- Coordenadas: 9.9759551, -84.0929117
+- [Waze](https://ul.waze.com/ul?ll=9.9759551%2C-84.0929117&navigate=yes)
 
-## 28: Rita de Chapu -> Kathia de Carballo
-- **Distance:** 0.6 km
-- **Duration:** 2 mins
-- [Waze Directions](https://ul.waze.com/ul?ll=9.974739099999999%2C-84.0880974&navigate=yes)
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9754942,-84.09275029999999&destination=9.974739099999999,-84.0880974' allowfullscreen></iframe>
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.974739099999999,-84.0880974&zoom=19&maptype=satellite' allowfullscreen></iframe>
+### 23. Ezequiel Álvarez Cabezas
+- Dirección: Centro, de Palí 100 Sur y 50 Oeste
+- Coordenadas: 9.9785763, -84.0920085
+- [Waze](https://ul.waze.com/ul?ll=9.9785763%2C-84.0920085&navigate=yes)
 
-## 29: Kathia de Carballo -> Olga Castro Porras
-- **Distance:** 0.8 km
-- **Duration:** 2 mins
-- [Waze Directions](https://ul.waze.com/ul?ll=9.9735783%2C-84.0816134&navigate=yes)
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.974739099999999,-84.0880974&destination=9.9735783,-84.0816134' allowfullscreen></iframe>
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9735783,-84.0816134&zoom=19&maptype=satellite' allowfullscreen></iframe>
+### 24. Erneth Castro Bermúdez
+- Dirección: Centro, 50 Sur de Pulpería Gago
+- Coordenadas: 9.9773545, -84.0918268
+- [Waze](https://ul.waze.com/ul?ll=9.9773545%2C-84.0918268&navigate=yes)
 
-## 30: Olga Castro Porras -> Argel Zamora / Maricela Zamora / Verónica (Hija Argel)
-- **Distance:** 0.7 km
-- **Duration:** 2 mins
-- [Waze Directions](https://ul.waze.com/ul?ll=9.9763448%2C-84.0838862&navigate=yes)
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9735783,-84.0816134&destination=9.9763448,-84.0838862' allowfullscreen></iframe>
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9763448,-84.0838862&zoom=19&maptype=satellite' allowfullscreen></iframe>
+### 25. Mauricio Carballo
+- Dirección: Barrio San Martín y Calle Lencha
+- Coordenadas: 9.9748803, -84.0880848
+- [Waze](https://ul.waze.com/ul?ll=9.9748803%2C-84.0880848&navigate=yes)
 
-## 31: Argel Zamora / Maricela Zamora / Verónica (Hija Argel) -> María Gabriela Rojas Gutiérrez
-- **Distance:** 0.4 km
-- **Duration:** 1 min
-- [Waze Directions](https://ul.waze.com/ul?ll=9.9778112%2C-84.08607959999999&navigate=yes)
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9763448,-84.0838862&destination=9.9778112,-84.08607959999999' allowfullscreen></iframe>
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9778112,-84.08607959999999&zoom=19&maptype=satellite' allowfullscreen></iframe>
+### 26. Manuel Esquivel (Papá de Cami y Dani)
+- Dirección: 
+- Coordenadas: 9.9762133, -84.0880807
+- [Waze](https://ul.waze.com/ul?ll=9.9762133%2C-84.0880807&navigate=yes)
 
-## 32: María Gabriela Rojas Gutiérrez -> Paula (Mamá de Cami y Dani)
-- **Distance:** 0.4 km
-- **Duration:** 1 min
-- [Waze Directions](https://ul.waze.com/ul?ll=9.976244%2C-84.0880822&navigate=yes)
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9778112,-84.08607959999999&destination=9.976244,-84.0880822' allowfullscreen></iframe>
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.976244,-84.0880822&zoom=19&maptype=satellite' allowfullscreen></iframe>
+### 27. Victor (Mauren)
+- Dirección: La Pacífica, Panad Tutti 200, 2da casa mano derecha, portón hierro juego Mimbre en Cochera
+- Coordenadas: 9.9765131, -84.0868044
+- [Waze](https://ul.waze.com/ul?ll=9.9765131%2C-84.0868044&navigate=yes)
 
-## 33: Paula (Mamá de Cami y Dani) -> Natalia (Mamá de Matías)
-- **Distance:** 0.3 km
-- **Duration:** 1 min
-- [Waze Directions](https://ul.waze.com/ul?ll=9.9785083%2C-84.0880437&navigate=yes)
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.976244,-84.0880822&destination=9.9785083,-84.0880437' allowfullscreen></iframe>
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9785083,-84.0880437&zoom=19&maptype=satellite' allowfullscreen></iframe>
+### 28. Manuel esposo de Gaby
+- Dirección: 
+- Coordenadas: 9.977876, -84.086088
+- [Waze](https://ul.waze.com/ul?ll=9.977876%2C-84.086088&navigate=yes)
 
-## 34: Natalia (Mamá de Matías) -> Reina
-- **Distance:** 0.1 km
-- **Duration:** 1 min
-- [Waze Directions](https://ul.waze.com/ul?ll=9.9795395%2C-84.0879492&navigate=yes)
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9785083,-84.0880437&destination=9.9795395,-84.0879492' allowfullscreen></iframe>
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9795395,-84.0879492&zoom=19&maptype=satellite' allowfullscreen></iframe>
-
-## 35: Reina -> Iglesia (Desiré)
-- **Distance:** 0.1 km
-- **Duration:** 1 min
-- [Waze Directions](https://ul.waze.com/ul?ll=9.9800259%2C-84.0875051&navigate=yes)
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9795395,-84.0879492&destination=9.9800259,-84.0875051' allowfullscreen></iframe>
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9800259,-84.0875051&zoom=19&maptype=satellite' allowfullscreen></iframe>
-
-## 36: Iglesia (Desiré) -> Iglesia (Desiré)
-- **Distance:** 0.1 km
-- **Duration:** 1 min
-- [Waze Directions](https://ul.waze.com/ul?ll=9.9794875%2C-84.0879526&navigate=yes)
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9800259,-84.0875051&destination=9.9794875,-84.0879526' allowfullscreen></iframe>
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9794875,-84.0879526&zoom=19&maptype=satellite' allowfullscreen></iframe>
+### 29. Pablo (papá de Mati)
+- Dirección: Centro, de Pueblo de Dios 125 Sur
+- Coordenadas: 9.9785208, -84.0881641
+- [Waze](https://ul.waze.com/ul?ll=9.9785208%2C-84.0881641&navigate=yes)
 
 ## Results
-- **Total Distance:** 33.126 km
-- **Total Duration:** 6 hours
+
+- Paradas visitadas: 29
+- Tiempo serenatas manual: 3 hours 37 mins
+- Tiempo manejando según API: 1 hours 22 mins
+- Tiempo visitas según API: 3 hours 37 mins
+- Tiempo total estimado: 5 hours 0 mins
