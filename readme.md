@@ -20,11 +20,11 @@
 
 **Ruta desde la parada anterior:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=TU_API_KEY_RESTRINGIDA&origin=9.979486,-84.087929&destination=9.9795352,-84.0878816' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.979486,-84.087929&destination=9.9795352,-84.0878816' allowfullscreen></iframe>
 
 **Vista satelital de la parada:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=TU_API_KEY_RESTRINGIDA&q=9.9795352,-84.0878816&zoom=19&maptype=satellite' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9795352,-84.0878816&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
 ### 2. Gerardo Fonseca
 - Dirección: Santo Domingo Centro
@@ -34,11 +34,11 @@
 
 **Ruta desde la parada anterior:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=TU_API_KEY_RESTRINGIDA&origin=9.9795352,-84.0878816&destination=9.9800777,-84.0875004' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9795352,-84.0878816&destination=9.9800777,-84.0875004' allowfullscreen></iframe>
 
 **Vista satelital de la parada:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=TU_API_KEY_RESTRINGIDA&q=9.9800777,-84.0875004&zoom=19&maptype=satellite' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9800777,-84.0875004&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
 ### 3. Randall Papá de Emilio
 - Dirección: Quizarco
@@ -48,11 +48,11 @@
 
 **Ruta desde la parada anterior:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=TU_API_KEY_RESTRINGIDA&origin=9.9800777,-84.0875004&destination=9.988864,-84.081803' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9800777,-84.0875004&destination=9.988864,-84.081803' allowfullscreen></iframe>
 
 **Vista satelital de la parada:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=TU_API_KEY_RESTRINGIDA&q=9.988864,-84.081803&zoom=19&maptype=satellite' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.988864,-84.081803&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
 ### 4. Rafael Peinado
 - Dirección: Residencial Quizarco
@@ -62,11 +62,11 @@
 
 **Ruta desde la parada anterior:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=TU_API_KEY_RESTRINGIDA&origin=9.988864,-84.081803&destination=9.989429,-84.084831' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.988864,-84.081803&destination=9.989429,-84.084831' allowfullscreen></iframe>
 
 **Vista satelital de la parada:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=TU_API_KEY_RESTRINGIDA&q=9.989429,-84.084831&zoom=19&maptype=satellite' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.989429,-84.084831&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
 ### 5. Papá de Marcelo
 - Dirección: San Vicente, del Chino al Este
@@ -76,11 +76,11 @@
 
 **Ruta desde la parada anterior:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=TU_API_KEY_RESTRINGIDA&origin=9.989429,-84.084831&destination=9.9865562,-84.0874327' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.989429,-84.084831&destination=9.9865562,-84.0874327' allowfullscreen></iframe>
 
 **Vista satelital de la parada:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=TU_API_KEY_RESTRINGIDA&q=9.9865562,-84.0874327&zoom=19&maptype=satellite' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9865562,-84.0874327&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
 ### 6. Gerson Rojas
 - Dirección: Super Yurusti
@@ -90,11 +90,11 @@
 
 **Ruta desde la parada anterior:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=TU_API_KEY_RESTRINGIDA&origin=9.9865562,-84.0874327&destination=9.985588,-84.090403' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9865562,-84.0874327&destination=9.985588,-84.090403' allowfullscreen></iframe>
 
 **Vista satelital de la parada:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=TU_API_KEY_RESTRINGIDA&q=9.985588,-84.090403&zoom=19&maptype=satellite' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.985588,-84.090403&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
 ### 7. Bernal Brenes
 - Dirección: San Vicente, La Colonia
@@ -104,11 +104,11 @@
 
 **Ruta desde la parada anterior:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=TU_API_KEY_RESTRINGIDA&origin=9.985588,-84.090403&destination=9.9855343,-84.0941144' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.985588,-84.090403&destination=9.9855343,-84.0941144' allowfullscreen></iframe>
 
 **Vista satelital de la parada:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=TU_API_KEY_RESTRINGIDA&q=9.9855343,-84.0941144&zoom=19&maptype=satellite' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9855343,-84.0941144&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
 ### 8. Sergio Roldán
 - Dirección: San Pablo, de Chantillí 200 Este, 50 Sur y 50Este
@@ -118,11 +118,11 @@
 
 **Ruta desde la parada anterior:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=TU_API_KEY_RESTRINGIDA&origin=9.9855343,-84.0941144&destination=9.9869868,-84.0954401' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9855343,-84.0941144&destination=9.9869868,-84.0954401' allowfullscreen></iframe>
 
 **Vista satelital de la parada:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=TU_API_KEY_RESTRINGIDA&q=9.9869868,-84.0954401&zoom=19&maptype=satellite' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9869868,-84.0954401&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
 ### 9. Papá de Monica y Alvaro
 - Dirección: San Pablo, Urbanización Santa Fernanda
@@ -132,11 +132,11 @@
 
 **Ruta desde la parada anterior:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=TU_API_KEY_RESTRINGIDA&origin=9.9869868,-84.0954401&destination=9.9851347,-84.0976294' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9869868,-84.0954401&destination=9.9851347,-84.0976294' allowfullscreen></iframe>
 
 **Vista satelital de la parada:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=TU_API_KEY_RESTRINGIDA&q=9.9851347,-84.0976294&zoom=19&maptype=satellite' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9851347,-84.0976294&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
 ### 10. Mailor Gómez Benavidez
 - Dirección: San Pablo, Urbanización Los Arcos
@@ -146,11 +146,11 @@
 
 **Ruta desde la parada anterior:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=TU_API_KEY_RESTRINGIDA&origin=9.9851347,-84.0976294&destination=9.9856501,-84.0998875' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9851347,-84.0976294&destination=9.9856501,-84.0998875' allowfullscreen></iframe>
 
 **Vista satelital de la parada:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=TU_API_KEY_RESTRINGIDA&q=9.9856501,-84.0998875&zoom=19&maptype=satellite' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9856501,-84.0998875&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
 ### 11. Marvin
 - Dirección: 
@@ -160,11 +160,11 @@
 
 **Ruta desde la parada anterior:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=TU_API_KEY_RESTRINGIDA&origin=9.9856501,-84.0998875&destination=9.999994,-84.093697' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9856501,-84.0998875&destination=9.999994,-84.093697' allowfullscreen></iframe>
 
 **Vista satelital de la parada:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=TU_API_KEY_RESTRINGIDA&q=9.999994,-84.093697&zoom=19&maptype=satellite' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.999994,-84.093697&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
 ### 12. Luis Gómez
 - Dirección: Tures, de Colegio Golden Valley 300 Sur
@@ -174,11 +174,11 @@
 
 **Ruta desde la parada anterior:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=TU_API_KEY_RESTRINGIDA&origin=9.999994,-84.093697&destination=9.9958782,-84.0675092' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.999994,-84.093697&destination=9.9958782,-84.0675092' allowfullscreen></iframe>
 
 **Vista satelital de la parada:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=TU_API_KEY_RESTRINGIDA&q=9.9958782,-84.0675092&zoom=19&maptype=satellite' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9958782,-84.0675092&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
 ### 13. Oscar Alvarado Oviedo y Allan
 - Dirección: Sto Tomás, 50 Este de Iglesia Evangélica
@@ -188,11 +188,11 @@
 
 **Ruta desde la parada anterior:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=TU_API_KEY_RESTRINGIDA&origin=9.9958782,-84.0675092&destination=9.9849376,-84.0743472' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9958782,-84.0675092&destination=9.9849376,-84.0743472' allowfullscreen></iframe>
 
 **Vista satelital de la parada:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=TU_API_KEY_RESTRINGIDA&q=9.9849376,-84.0743472&zoom=19&maptype=satellite' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9849376,-84.0743472&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
 ### 14. Rafael Zúñiga Arce
 - Dirección: Sto. Tomás, de Chumis 100 Este
@@ -202,11 +202,11 @@
 
 **Ruta desde la parada anterior:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=TU_API_KEY_RESTRINGIDA&origin=9.9849376,-84.0743472&destination=9.9811287,-84.0728917' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9849376,-84.0743472&destination=9.9811287,-84.0728917' allowfullscreen></iframe>
 
 **Vista satelital de la parada:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=TU_API_KEY_RESTRINGIDA&q=9.9811287,-84.0728917&zoom=19&maptype=satellite' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9811287,-84.0728917&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
 ### 15. Luis Barrantes Sto. Tomás
 - Dirección: Sto Tomás
@@ -216,11 +216,11 @@
 
 **Ruta desde la parada anterior:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=TU_API_KEY_RESTRINGIDA&origin=9.9811287,-84.0728917&destination=9.9789652,-84.0723989' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9811287,-84.0728917&destination=9.9789652,-84.0723989' allowfullscreen></iframe>
 
 **Vista satelital de la parada:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=TU_API_KEY_RESTRINGIDA&q=9.9789652,-84.0723989&zoom=19&maptype=satellite' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9789652,-84.0723989&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
 ### 16. Papá de Josué de Anabelle
 - Dirección: Sto. Tomás
@@ -230,11 +230,11 @@
 
 **Ruta desde la parada anterior:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=TU_API_KEY_RESTRINGIDA&origin=9.9789652,-84.0723989&destination=9.9771438,-84.0715458' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9789652,-84.0723989&destination=9.9771438,-84.0715458' allowfullscreen></iframe>
 
 **Vista satelital de la parada:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=TU_API_KEY_RESTRINGIDA&q=9.9771438,-84.0715458&zoom=19&maptype=satellite' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9771438,-84.0715458&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
 ### 17. Luis Barrantes (papá de Key)
 - Dirección: Tibás
@@ -244,11 +244,11 @@
 
 **Ruta desde la parada anterior:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=TU_API_KEY_RESTRINGIDA&origin=9.9771438,-84.0715458&destination=9.9652136,-84.0692785' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9771438,-84.0715458&destination=9.9652136,-84.0692785' allowfullscreen></iframe>
 
 **Vista satelital de la parada:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=TU_API_KEY_RESTRINGIDA&q=9.9652136,-84.0692785&zoom=19&maptype=satellite' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9652136,-84.0692785&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
 ### 18. Aureo Aguilar Rodríguez
 - Dirección: Santa Rosa, 1 de Mayo
@@ -258,11 +258,11 @@
 
 **Ruta desde la parada anterior:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=TU_API_KEY_RESTRINGIDA&origin=9.9652136,-84.0692785&destination=9.9716393,-84.0952956' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9652136,-84.0692785&destination=9.9716393,-84.0952956' allowfullscreen></iframe>
 
 **Vista satelital de la parada:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=TU_API_KEY_RESTRINGIDA&q=9.9716393,-84.0952956&zoom=19&maptype=satellite' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9716393,-84.0952956&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
 ### 19. Juan Bolaños (Papá de Kris)
 - Dirección: Santa Rosa (trabajando)
@@ -272,11 +272,11 @@
 
 **Ruta desde la parada anterior:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=TU_API_KEY_RESTRINGIDA&origin=9.9716393,-84.0952956&destination=9.968984,-84.097096' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9716393,-84.0952956&destination=9.968984,-84.097096' allowfullscreen></iframe>
 
 **Vista satelital de la parada:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=TU_API_KEY_RESTRINGIDA&q=9.968984,-84.097096&zoom=19&maptype=satellite' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.968984,-84.097096&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
 ### 20. Mario Solano (Padre e hijo) / Raymundo
 - Dirección: Santa Rosa
@@ -286,11 +286,11 @@
 
 **Ruta desde la parada anterior:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=TU_API_KEY_RESTRINGIDA&origin=9.968984,-84.097096&destination=9.9714682,-84.1008826' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.968984,-84.097096&destination=9.9714682,-84.1008826' allowfullscreen></iframe>
 
 **Vista satelital de la parada:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=TU_API_KEY_RESTRINGIDA&q=9.9714682,-84.1008826&zoom=19&maptype=satellite' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9714682,-84.1008826&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
 ### 21. Sergio Estrada Calderón
 - Dirección: Centro, Por el Inbio
@@ -300,11 +300,11 @@
 
 **Ruta desde la parada anterior:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=TU_API_KEY_RESTRINGIDA&origin=9.9714682,-84.1008826&destination=9.9754875,-84.0926667' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9714682,-84.1008826&destination=9.9754875,-84.0926667' allowfullscreen></iframe>
 
 **Vista satelital de la parada:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=TU_API_KEY_RESTRINGIDA&q=9.9754875,-84.0926667&zoom=19&maptype=satellite' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9754875,-84.0926667&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
 ### 22. Minor (papá de Génesis)
 - Dirección: Centro, por el Inbio
@@ -314,11 +314,11 @@
 
 **Ruta desde la parada anterior:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=TU_API_KEY_RESTRINGIDA&origin=9.9754875,-84.0926667&destination=9.9759551,-84.0929117' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9754875,-84.0926667&destination=9.9759551,-84.0929117' allowfullscreen></iframe>
 
 **Vista satelital de la parada:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=TU_API_KEY_RESTRINGIDA&q=9.9759551,-84.0929117&zoom=19&maptype=satellite' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9759551,-84.0929117&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
 ### 23. Ezequiel Álvarez Cabezas
 - Dirección: Centro, de Palí 100 Sur y 50 Oeste
@@ -328,11 +328,11 @@
 
 **Ruta desde la parada anterior:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=TU_API_KEY_RESTRINGIDA&origin=9.9759551,-84.0929117&destination=9.9785763,-84.0920085' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9759551,-84.0929117&destination=9.9785763,-84.0920085' allowfullscreen></iframe>
 
 **Vista satelital de la parada:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=TU_API_KEY_RESTRINGIDA&q=9.9785763,-84.0920085&zoom=19&maptype=satellite' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9785763,-84.0920085&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
 ### 24. Erneth Castro Bermúdez
 - Dirección: Centro, 50 Sur de Pulpería Gago
@@ -342,11 +342,11 @@
 
 **Ruta desde la parada anterior:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=TU_API_KEY_RESTRINGIDA&origin=9.9785763,-84.0920085&destination=9.9773545,-84.0918268' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9785763,-84.0920085&destination=9.9773545,-84.0918268' allowfullscreen></iframe>
 
 **Vista satelital de la parada:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=TU_API_KEY_RESTRINGIDA&q=9.9773545,-84.0918268&zoom=19&maptype=satellite' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9773545,-84.0918268&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
 ### 25. Mauricio Carballo
 - Dirección: Barrio San Martín y Calle Lencha
@@ -356,11 +356,11 @@
 
 **Ruta desde la parada anterior:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=TU_API_KEY_RESTRINGIDA&origin=9.9773545,-84.0918268&destination=9.9748803,-84.0880848' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9773545,-84.0918268&destination=9.9748803,-84.0880848' allowfullscreen></iframe>
 
 **Vista satelital de la parada:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=TU_API_KEY_RESTRINGIDA&q=9.9748803,-84.0880848&zoom=19&maptype=satellite' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9748803,-84.0880848&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
 ### 26. Manuel Esquivel (Papá de Cami y Dani)
 - Dirección: 
@@ -370,11 +370,11 @@
 
 **Ruta desde la parada anterior:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=TU_API_KEY_RESTRINGIDA&origin=9.9748803,-84.0880848&destination=9.9762133,-84.0880807' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9748803,-84.0880848&destination=9.9762133,-84.0880807' allowfullscreen></iframe>
 
 **Vista satelital de la parada:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=TU_API_KEY_RESTRINGIDA&q=9.9762133,-84.0880807&zoom=19&maptype=satellite' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9762133,-84.0880807&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
 ### 27. Victor (Mauren)
 - Dirección: La Pacífica, Panad Tutti 200, 2da casa mano derecha, portón hierro juego Mimbre en Cochera
@@ -384,11 +384,11 @@
 
 **Ruta desde la parada anterior:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=TU_API_KEY_RESTRINGIDA&origin=9.9762133,-84.0880807&destination=9.9765131,-84.0868044' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9762133,-84.0880807&destination=9.9765131,-84.0868044' allowfullscreen></iframe>
 
 **Vista satelital de la parada:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=TU_API_KEY_RESTRINGIDA&q=9.9765131,-84.0868044&zoom=19&maptype=satellite' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9765131,-84.0868044&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
 ### 28. Manuel esposo de Gaby
 - Dirección: 
@@ -398,11 +398,11 @@
 
 **Ruta desde la parada anterior:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=TU_API_KEY_RESTRINGIDA&origin=9.9765131,-84.0868044&destination=9.977876,-84.086088' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9765131,-84.0868044&destination=9.977876,-84.086088' allowfullscreen></iframe>
 
 **Vista satelital de la parada:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=TU_API_KEY_RESTRINGIDA&q=9.977876,-84.086088&zoom=19&maptype=satellite' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.977876,-84.086088&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
 ### 29. Pablo (papá de Mati)
 - Dirección: Centro, de Pueblo de Dios 125 Sur
@@ -412,11 +412,11 @@
 
 **Ruta desde la parada anterior:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=TU_API_KEY_RESTRINGIDA&origin=9.977876,-84.086088&destination=9.9785208,-84.0881641' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.977876,-84.086088&destination=9.9785208,-84.0881641' allowfullscreen></iframe>
 
 **Vista satelital de la parada:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=TU_API_KEY_RESTRINGIDA&q=9.9785208,-84.0881641&zoom=19&maptype=satellite' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9785208,-84.0881641&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
 ## Regreso a la iglesia
 
@@ -425,11 +425,11 @@
 
 **Ruta desde la última parada hasta la iglesia:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=TU_API_KEY_RESTRINGIDA&origin=9.9785208,-84.0881641&destination=9.979486,-84.087929' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9785208,-84.0881641&destination=9.979486,-84.087929' allowfullscreen></iframe>
 
 **Vista satelital de la iglesia:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=TU_API_KEY_RESTRINGIDA&q=9.979486,-84.087929&zoom=19&maptype=satellite' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.979486,-84.087929&zoom=19&maptype=satellite' allowfullscreen></iframe>
 
 ## Results
 
