@@ -26,6 +26,10 @@
 
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9795352,-84.0878816&zoom=19&maptype=satellite&language=es&region=CR' allowfullscreen></iframe>
 
+**Street View de la parada:**
+
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/streetview?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&location=9.9795352,-84.0878816&heading=0&pitch=0&fov=80&language=es&region=CR' allowfullscreen></iframe>
+
 ### 2. Gerardo Fonseca
 - Dirección: Santo Domingo Centro, Heredia
 - Distancia desde anterior: 103 m
@@ -39,6 +43,10 @@
 **Vista satelital de la parada:**
 
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9800777,-84.0875004&zoom=19&maptype=satellite&language=es&region=CR' allowfullscreen></iframe>
+
+**Street View de la parada:**
+
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/streetview?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&location=9.9800777,-84.0875004&heading=0&pitch=0&fov=80&language=es&region=CR' allowfullscreen></iframe>
 
 ### 3. Randall Papá de Emilio
 - Dirección: Quizarco — Residencial Quizarco, Santo Domingo, Heredia
@@ -54,9 +62,13 @@
 
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.988864,-84.081803&zoom=19&maptype=satellite&language=es&region=CR' allowfullscreen></iframe>
 
+**Street View de la parada:**
+
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/streetview?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&location=9.988864,-84.081803&heading=0&pitch=0&fov=80&language=es&region=CR' allowfullscreen></iframe>
+
 ### 4. Rafael Peinado
 - Dirección: Residencial Quizarco — Av. 20A, Santo Domingo, Heredia
-- Distancia desde anterior: 637 m
+- Distancia desde anterior: 636 m
 - Duración desde anterior: 2 min 15 seg
 - [Waze](https://ul.waze.com/ul?ll=9.989429%2C-84.084831&navigate=yes)
 
@@ -67,6 +79,10 @@
 **Vista satelital de la parada:**
 
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.989429,-84.084831&zoom=19&maptype=satellite&language=es&region=CR' allowfullscreen></iframe>
+
+**Street View de la parada:**
+
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/streetview?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&location=9.989429,-84.084831&heading=0&pitch=0&fov=80&language=es&region=CR' allowfullscreen></iframe>
 
 ### 5. Papá de Marcelo
 - Dirección: San Vicente, del Chino al Este — Santo Domingo, Heredia
@@ -82,6 +98,10 @@
 
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9865562,-84.0874327&zoom=19&maptype=satellite&language=es&region=CR' allowfullscreen></iframe>
 
+**Street View de la parada:**
+
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/streetview?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&location=9.9865562,-84.0874327&heading=0&pitch=0&fov=80&language=es&region=CR' allowfullscreen></iframe>
+
 ### 6. Gerson Rojas
 - Dirección: Cerca de Súper Yurusti — Av. 13, Santo Domingo, Heredia
 - Distancia desde anterior: 402 m
@@ -95,6 +115,10 @@
 **Vista satelital de la parada:**
 
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.985588,-84.090403&zoom=19&maptype=satellite&language=es&region=CR' allowfullscreen></iframe>
+
+**Street View de la parada:**
+
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/streetview?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&location=9.985588,-84.090403&heading=0&pitch=0&fov=80&language=es&region=CR' allowfullscreen></iframe>
 
 ### 7. Bernal Brenes
 - Dirección: San Vicente, La Colonia — Santo Domingo, Heredia
@@ -110,9 +134,13 @@
 
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9855343,-84.0941144&zoom=19&maptype=satellite&language=es&region=CR' allowfullscreen></iframe>
 
+**Street View de la parada:**
+
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/streetview?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&location=9.9855343,-84.0941144&heading=0&pitch=0&fov=80&language=es&region=CR' allowfullscreen></iframe>
+
 ### 8. Sergio Roldán
 - Dirección: San Pablo, de Chantillí 200 Este, 50 Sur y 50 Este, Heredia
-- Distancia desde anterior: 1.28 km
+- Distancia desde anterior: 1.29 km
 - Duración desde anterior: 3 min 49 seg
 - [Waze](https://ul.waze.com/ul?ll=9.9869868%2C-84.0954401&navigate=yes)
 
@@ -123,6 +151,10 @@
 **Vista satelital de la parada:**
 
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9869868,-84.0954401&zoom=19&maptype=satellite&language=es&region=CR' allowfullscreen></iframe>
+
+**Street View de la parada:**
+
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/streetview?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&location=9.9869868,-84.0954401&heading=0&pitch=0&fov=80&language=es&region=CR' allowfullscreen></iframe>
 
 ### 9. Papá de Monica y Alvaro
 - Dirección: San Pablo, Urbanización Santa Fernanda, Heredia
@@ -138,6 +170,10 @@
 
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9851347,-84.0976294&zoom=19&maptype=satellite&language=es&region=CR' allowfullscreen></iframe>
 
+**Street View de la parada:**
+
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/streetview?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&location=9.9851347,-84.0976294&heading=0&pitch=0&fov=80&language=es&region=CR' allowfullscreen></iframe>
+
 ### 10. Mailor Gómez Benavidez
 - Dirección: San Pablo, Urbanización Los Arcos — Rincón de Sabanilla, Heredia
 - Distancia desde anterior: 424 m
@@ -152,10 +188,14 @@
 
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9856501,-84.0998875&zoom=19&maptype=satellite&language=es&region=CR' allowfullscreen></iframe>
 
+**Street View de la parada:**
+
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/streetview?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&location=9.9856501,-84.0998875&heading=0&pitch=0&fov=80&language=es&region=CR' allowfullscreen></iframe>
+
 ### 11. Marvin
 - Dirección: Calle 3, Urbanización Nueva Jerusalén, San Pablo, Heredia
 - Distancia desde anterior: 2.04 km
-- Duración desde anterior: 5 min 18 seg
+- Duración desde anterior: 5 min 17 seg
 - [Waze](https://ul.waze.com/ul?ll=9.999994%2C-84.093697&navigate=yes)
 
 **Ruta desde la parada anterior:**
@@ -165,6 +205,10 @@
 **Vista satelital de la parada:**
 
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.999994,-84.093697&zoom=19&maptype=satellite&language=es&region=CR' allowfullscreen></iframe>
+
+**Street View de la parada:**
+
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/streetview?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&location=9.999994,-84.093697&heading=0&pitch=0&fov=80&language=es&region=CR' allowfullscreen></iframe>
 
 ### 12. Luis Gómez
 - Dirección: Tures, de Colegio Golden Valley 300 Sur — Santo Domingo, Heredia
@@ -180,6 +224,10 @@
 
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9958782,-84.0675092&zoom=19&maptype=satellite&language=es&region=CR' allowfullscreen></iframe>
 
+**Street View de la parada:**
+
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/streetview?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&location=9.9958782,-84.0675092&heading=0&pitch=0&fov=80&language=es&region=CR' allowfullscreen></iframe>
+
 ### 13. Oscar Alvarado Oviedo y Allan
 - Dirección: Santo Tomás, 50 Este de Iglesia Evangélica — Ruta 116, Santo Domingo, Heredia
 - Distancia desde anterior: 4.38 km
@@ -194,9 +242,13 @@
 
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9849376,-84.0743472&zoom=19&maptype=satellite&language=es&region=CR' allowfullscreen></iframe>
 
+**Street View de la parada:**
+
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/streetview?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&location=9.9849376,-84.0743472&heading=0&pitch=0&fov=80&language=es&region=CR' allowfullscreen></iframe>
+
 ### 14. Rafael Zúñiga Arce
 - Dirección: Santo Tomás, de Chumis 100 Este — Santo Domingo, Heredia
-- Distancia desde anterior: 579 m
+- Distancia desde anterior: 578 m
 - Duración desde anterior: 1 min 30 seg
 - [Waze](https://ul.waze.com/ul?ll=9.9811287%2C-84.0728917&navigate=yes)
 
@@ -208,9 +260,13 @@
 
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9811287,-84.0728917&zoom=19&maptype=satellite&language=es&region=CR' allowfullscreen></iframe>
 
+**Street View de la parada:**
+
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/streetview?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&location=9.9811287,-84.0728917&heading=0&pitch=0&fov=80&language=es&region=CR' allowfullscreen></iframe>
+
 ### 15. Luis Barrantes Sto. Tomás
 - Dirección: Santo Tomás, Heredia
-- Distancia desde anterior: 412 m
+- Distancia desde anterior: 413 m
 - Duración desde anterior: 1 min 14 seg
 - [Waze](https://ul.waze.com/ul?ll=9.9789652%2C-84.0723989&navigate=yes)
 
@@ -221,6 +277,10 @@
 **Vista satelital de la parada:**
 
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9789652,-84.0723989&zoom=19&maptype=satellite&language=es&region=CR' allowfullscreen></iframe>
+
+**Street View de la parada:**
+
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/streetview?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&location=9.9789652,-84.0723989&heading=0&pitch=0&fov=80&language=es&region=CR' allowfullscreen></iframe>
 
 ### 16. Papá de Josué de Anabelle
 - Dirección: Santo Tomás — Carretera a Santo Tomás, Santo Domingo, Heredia
@@ -236,6 +296,10 @@
 
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9771438,-84.0715458&zoom=19&maptype=satellite&language=es&region=CR' allowfullscreen></iframe>
 
+**Street View de la parada:**
+
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/streetview?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&location=9.9771438,-84.0715458&heading=0&pitch=0&fov=80&language=es&region=CR' allowfullscreen></iframe>
+
 ### 17. Luis Barrantes (papá de Key)
 - Dirección: Tibás — Villafranca, San Juan, San José
 - Distancia desde anterior: 4.33 km
@@ -249,6 +313,10 @@
 **Vista satelital de la parada:**
 
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9652136,-84.0692785&zoom=19&maptype=satellite&language=es&region=CR' allowfullscreen></iframe>
+
+**Street View de la parada:**
+
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/streetview?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&location=9.9652136,-84.0692785&heading=0&pitch=0&fov=80&language=es&region=CR' allowfullscreen></iframe>
 
 ### 18. Aureo Aguilar Rodríguez
 - Dirección: Santa Rosa, 1 de Mayo — cerca de Súper Nayla, Santo Domingo, Heredia
@@ -264,9 +332,13 @@
 
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9716393,-84.0952956&zoom=19&maptype=satellite&language=es&region=CR' allowfullscreen></iframe>
 
+**Street View de la parada:**
+
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/streetview?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&location=9.9716393,-84.0952956&heading=0&pitch=0&fov=80&language=es&region=CR' allowfullscreen></iframe>
+
 ### 19. Juan Bolaños (Papá de Kris)
 - Dirección: Santa Rosa — C. Estación, Heredia
-- Distancia desde anterior: 569 m
+- Distancia desde anterior: 570 m
 - Duración desde anterior: 2 min 18 seg
 - [Waze](https://ul.waze.com/ul?ll=9.968984%2C-84.097096&navigate=yes)
 
@@ -277,6 +349,10 @@
 **Vista satelital de la parada:**
 
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.968984,-84.097096&zoom=19&maptype=satellite&language=es&region=CR' allowfullscreen></iframe>
+
+**Street View de la parada:**
+
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/streetview?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&location=9.968984,-84.097096&heading=0&pitch=0&fov=80&language=es&region=CR' allowfullscreen></iframe>
 
 ### 20. Mario Solano (Padre e hijo) / Raymundo
 - Dirección: Santa Rosa, Santo Domingo, Heredia
@@ -292,6 +368,10 @@
 
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9714682,-84.1008826&zoom=19&maptype=satellite&language=es&region=CR' allowfullscreen></iframe>
 
+**Street View de la parada:**
+
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/streetview?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&location=9.9714682,-84.1008826&heading=0&pitch=0&fov=80&language=es&region=CR' allowfullscreen></iframe>
+
 ### 21. Sergio Estrada Calderón
 - Dirección: Centro, por el Inbio — San Vicente, Heredia
 - Distancia desde anterior: 1.15 km
@@ -305,6 +385,10 @@
 **Vista satelital de la parada:**
 
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9754875,-84.0926667&zoom=19&maptype=satellite&language=es&region=CR' allowfullscreen></iframe>
+
+**Street View de la parada:**
+
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/streetview?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&location=9.9754875,-84.0926667&heading=0&pitch=0&fov=80&language=es&region=CR' allowfullscreen></iframe>
 
 ### 22. Minor (papá de Génesis)
 - Dirección: Centro, por el Inbio — Santo Domingo, Heredia
@@ -320,6 +404,10 @@
 
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9759551,-84.0929117&zoom=19&maptype=satellite&language=es&region=CR' allowfullscreen></iframe>
 
+**Street View de la parada:**
+
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/streetview?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&location=9.9759551,-84.0929117&heading=0&pitch=0&fov=80&language=es&region=CR' allowfullscreen></iframe>
+
 ### 23. Ezequiel Álvarez Cabezas
 - Dirección: Centro, de Palí 100 Sur y 50 Oeste — Av. 4 Jesús Jiménez, Santo Domingo, Heredia
 - Distancia desde anterior: 370 m
@@ -333,6 +421,10 @@
 **Vista satelital de la parada:**
 
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9785763,-84.0920085&zoom=19&maptype=satellite&language=es&region=CR' allowfullscreen></iframe>
+
+**Street View de la parada:**
+
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/streetview?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&location=9.9785763,-84.0920085&heading=0&pitch=0&fov=80&language=es&region=CR' allowfullscreen></iframe>
 
 ### 24. Erneth Castro Bermúdez
 - Dirección: Centro, 50 Sur de Pulpería Gago — Av. 2 Del Comercio, Calle Blancos, Heredia
@@ -348,9 +440,13 @@
 
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9773545,-84.0918268&zoom=19&maptype=satellite&language=es&region=CR' allowfullscreen></iframe>
 
+**Street View de la parada:**
+
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/streetview?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&location=9.9773545,-84.0918268&heading=0&pitch=0&fov=80&language=es&region=CR' allowfullscreen></iframe>
+
 ### 25. Mauricio Carballo
 - Dirección: Barrio San Martín y Calle Lencha — C. Soto, Santo Domingo, Heredia
-- Distancia desde anterior: 673 m
+- Distancia desde anterior: 672 m
 - Duración desde anterior: 2 min 33 seg
 - [Waze](https://ul.waze.com/ul?ll=9.9748803%2C-84.0880848&navigate=yes)
 
@@ -361,6 +457,10 @@
 **Vista satelital de la parada:**
 
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9748803,-84.0880848&zoom=19&maptype=satellite&language=es&region=CR' allowfullscreen></iframe>
+
+**Street View de la parada:**
+
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/streetview?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&location=9.9748803,-84.0880848&heading=0&pitch=0&fov=80&language=es&region=CR' allowfullscreen></iframe>
 
 ### 26. Manuel Esquivel (Papá de Cami y Dani)
 - Dirección: C. 7 Damasco Villalobos, Santo Domingo, Heredia
@@ -376,6 +476,10 @@
 
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9762133,-84.0880807&zoom=19&maptype=satellite&language=es&region=CR' allowfullscreen></iframe>
 
+**Street View de la parada:**
+
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/streetview?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&location=9.9762133,-84.0880807&heading=0&pitch=0&fov=80&language=es&region=CR' allowfullscreen></iframe>
+
 ### 27. Victor (Mauren)
 - Dirección: La Pacífica, Panad Tutti 200, 2da casa mano derecha, portón hierro juego Mimbre en cochera — C. 9, Santo Domingo, Heredia
 - Distancia desde anterior: 442 m
@@ -390,9 +494,13 @@
 
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9765131,-84.0868044&zoom=19&maptype=satellite&language=es&region=CR' allowfullscreen></iframe>
 
+**Street View de la parada:**
+
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/streetview?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&location=9.9765131,-84.0868044&heading=0&pitch=0&fov=80&language=es&region=CR' allowfullscreen></iframe>
+
 ### 28. Manuel esposo de Gaby
 - Dirección: Condominio Los Hidalgos, Santo Domingo, Heredia
-- Distancia desde anterior: 230 m
+- Distancia desde anterior: 229 m
 - Duración desde anterior: 53 seg
 - [Waze](https://ul.waze.com/ul?ll=9.977876%2C-84.086088&navigate=yes)
 
@@ -403,6 +511,10 @@
 **Vista satelital de la parada:**
 
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.977876,-84.086088&zoom=19&maptype=satellite&language=es&region=CR' allowfullscreen></iframe>
+
+**Street View de la parada:**
+
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/streetview?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&location=9.977876,-84.086088&heading=0&pitch=0&fov=80&language=es&region=CR' allowfullscreen></iframe>
 
 ### 29. Pablo (papá de Mati)
 - Dirección: Centro, de Pueblo de Dios 125 Sur — C. 7 Damasco Villalobos, Santo Domingo, Heredia
@@ -418,6 +530,10 @@
 
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9785208,-84.0881641&zoom=19&maptype=satellite&language=es&region=CR' allowfullscreen></iframe>
 
+**Street View de la parada:**
+
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/streetview?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&location=9.9785208,-84.0881641&heading=0&pitch=0&fov=80&language=es&region=CR' allowfullscreen></iframe>
+
 ## Regreso a la iglesia
 
 - Distancia desde última parada: 109 m
@@ -430,6 +546,10 @@
 **Vista satelital de la iglesia:**
 
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.979486,-84.087929&zoom=19&maptype=satellite&language=es&region=CR' allowfullscreen></iframe>
+
+**Street View de la iglesia:**
+
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/streetview?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&location=9.979486,-84.087929&heading=0&pitch=0&fov=80&language=es&region=CR' allowfullscreen></iframe>
 
 ## Resumen de la ruta
 
