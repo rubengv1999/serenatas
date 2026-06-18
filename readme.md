@@ -3,7 +3,7 @@
 ## Ruta
 
 - Fecha: viernes 19 de junio de 2026
-- Hora de salida: 9:00 PM
+- Hora de salida: 9:30 PM
 - Inicio: Iglesia Pueblo de Dios
 - Final: Iglesia Pueblo de Dios
 
@@ -30,8 +30,8 @@
 
 ### 2. Gerardo Fonseca
 - Dirección: Santo Domingo Centro, Heredia
-- Distancia desde anterior: 104 m
-- Duración desde anterior: 15 seg
+- Distancia desde anterior: 103 m
+- Duración desde anterior: 14 seg
 - [Waze](https://ul.waze.com/ul?ll=9.9800777%2C-84.0875004&navigate=yes)
 
 **Ruta desde la parada anterior:**
@@ -58,7 +58,7 @@
 
 ### 4. Rafael Peinado
 - Dirección: Residencial Quizarco — Av. 20A, Santo Domingo, Heredia
-- Distancia desde anterior: 637 m
+- Distancia desde anterior: 636 m
 - Duración desde anterior: 2 min 15 seg
 - [Waze](https://ul.waze.com/ul?ll=9.989429%2C-84.084831&navigate=yes)
 
@@ -114,7 +114,7 @@
 
 ### 8. Sergio Roldán
 - Dirección: San Pablo, de Chantillí 200 Este, 50 Sur y 50 Este, Heredia
-- Distancia desde anterior: 1.28 km
+- Distancia desde anterior: 1.29 km
 - Duración desde anterior: 3 min 49 seg
 - [Waze](https://ul.waze.com/ul?ll=9.9869868%2C-84.0954401&navigate=yes)
 
@@ -157,7 +157,7 @@
 ### 11. Marvin
 - Dirección: Calle 3, Urbanización Nueva Jerusalén, San Pablo, Heredia
 - Distancia desde anterior: 2.04 km
-- Duración desde anterior: 5 min 18 seg
+- Duración desde anterior: 5 min 17 seg
 - [Waze](https://ul.waze.com/ul?ll=9.999994%2C-84.093697&navigate=yes)
 
 **Ruta desde la parada anterior:**
@@ -198,7 +198,7 @@
 
 ### 14. Rafael Zúñiga Arce
 - Dirección: Santo Tomás, de Chumis 100 Este — Santo Domingo, Heredia
-- Distancia desde anterior: 579 m
+- Distancia desde anterior: 578 m
 - Duración desde anterior: 1 min 30 seg
 - [Waze](https://ul.waze.com/ul?ll=9.9811287%2C-84.0728917&navigate=yes)
 
@@ -212,7 +212,7 @@
 
 ### 15. Luis Barrantes Sto. Tomás
 - Dirección: Santo Tomás, Heredia
-- Distancia desde anterior: 412 m
+- Distancia desde anterior: 413 m
 - Duración desde anterior: 1 min 14 seg
 - [Waze](https://ul.waze.com/ul?ll=9.9789652%2C-84.0723989&navigate=yes)
 
@@ -268,7 +268,7 @@
 
 ### 19. Juan Bolaños (Papá de Kris)
 - Dirección: Santa Rosa — C. Estación, Heredia
-- Distancia desde anterior: 569 m
+- Distancia desde anterior: 570 m
 - Duración desde anterior: 2 min 18 seg
 - [Waze](https://ul.waze.com/ul?ll=9.968984%2C-84.097096&navigate=yes)
 
@@ -282,7 +282,7 @@
 
 ### 20. Mario Solano (Padre e hijo) / Raymundo
 - Dirección: Santa Rosa, Santo Domingo, Heredia
-- Distancia desde anterior: 639 m
+- Distancia desde anterior: 638 m
 - Duración desde anterior: 2 min 3 seg
 - [Waze](https://ul.waze.com/ul?ll=9.9714682%2C-84.1008826&navigate=yes)
 
@@ -352,7 +352,7 @@
 
 ### 25. Mauricio Carballo
 - Dirección: Barrio San Martín y Calle Lencha — C. Soto, Santo Domingo, Heredia
-- Distancia desde anterior: 673 m
+- Distancia desde anterior: 672 m
 - Duración desde anterior: 2 min 33 seg
 - [Waze](https://ul.waze.com/ul?ll=9.9748803%2C-84.0880848&navigate=yes)
 
@@ -380,7 +380,7 @@
 
 ### 27. Victor (Mauren)
 - Dirección: La Pacífica, Panad Tutti 200, 2da casa mano derecha, portón hierro juego Mimbre en cochera — C. 9, Santo Domingo, Heredia
-- Distancia desde anterior: 441 m
+- Distancia desde anterior: 442 m
 - Duración desde anterior: 1 min 24 seg
 - [Waze](https://ul.waze.com/ul?ll=9.9765131%2C-84.0868044&navigate=yes)
 
@@ -394,7 +394,7 @@
 
 ### 28. Manuel esposo de Gaby
 - Dirección: Condominio Los Hidalgos, Santo Domingo, Heredia
-- Distancia desde anterior: 230 m
+- Distancia desde anterior: 229 m
 - Duración desde anterior: 53 seg
 - [Waze](https://ul.waze.com/ul?ll=9.977876%2C-84.086088&navigate=yes)
 
@@ -409,7 +409,7 @@
 ### 29. Pablo (papá de Mati)
 - Dirección: Centro, de Pueblo de Dios 125 Sur — C. 7 Damasco Villalobos, Santo Domingo, Heredia
 - Distancia desde anterior: 340 m
-- Duración desde anterior: 54 seg
+- Duración desde anterior: 53 seg
 - [Waze](https://ul.waze.com/ul?ll=9.9785208%2C-84.0881641&navigate=yes)
 
 **Ruta desde la parada anterior:**
@@ -436,14 +436,14 @@
 ## Resumen de la ruta
 
 - **Fecha:** viernes 19 de junio de 2026
-- **Hora de salida:** 9:00 PM
-- **Hora estimada de finalización:** sábado 20 de junio de 2026, 2:00 AM
-- **Hora estimada con margen:** sábado 20 de junio de 2026, 2:20 AM a sábado 20 de junio de 2026, 2:30 AM
+- **Hora de salida:** 9:30 PM
+- **Hora estimada de finalización:** sábado 20 de junio de 2026, 2:30 AM
+- **Hora estimada con margen:** sábado 20 de junio de 2026, 2:50 AM a sábado 20 de junio de 2026, 3:00 AM
 - **Paradas visitadas:** 29
 - **Tiempo estimado en serenatas:** 3 horas 37 min  
   _Calculado con 7.5 min por parada._
 - **Tiempo estimado manejando:** 1 hora 22 min
-- **Distancia total manejando:** 31.57 km
+- **Distancia total manejando:** 31.56 km
 - **Tiempo total estimado:** 5 horas
 
-> Nota: este total no incluye tiempo adicional por parqueo, espera, bajarse/subirse del carro o atrasos en carretera. Para planear con margen, conviene considerar finalizar entre **sábado 20 de junio de 2026, 2:20 AM y sábado 20 de junio de 2026, 2:30 AM**.
+> Nota: este total no incluye tiempo adicional por parqueo, espera, bajarse/subirse del carro o atrasos en carretera. Para planear con margen, conviene considerar finalizar entre **sábado 20 de junio de 2026, 2:50 AM y sábado 20 de junio de 2026, 3:00 AM**.
