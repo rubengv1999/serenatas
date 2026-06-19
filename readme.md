@@ -9,8 +9,8 @@
 
 ## Enlaces de Google Maps por partes
 
-- [Parte 1](https://www.google.com/maps/dir/9.979486,-84.087929/9.9795352,-84.0878816/9.9800777,-84.0875004/9.988864,-84.081803/9.989429,-84.084831/9.9865562,-84.0874327/9.985588,-84.090403/9.9855343,-84.0941144/9.9869868,-84.0954401/9.9851347,-84.0976294/9.9856501,-84.0998875/9.999994,-84.093697/9.9958782,-84.0675092/9.9849376,-84.0743472/9.9811287,-84.0728917/9.9789652,-84.0723989/9.9771438,-84.0715458/9.9652136,-84.0692785/9.9716393,-84.0952956/9.968984,-84.097096/9.9714682,-84.1008826/9.9754875,-84.0926667/9.9759551,-84.0929117/9.9785763,-84.0920085/9.9773545,-84.0918268)
-- [Parte 2](https://www.google.com/maps/dir/9.9773545,-84.0918268/9.9748803,-84.0880848/9.9762133,-84.0880807/9.9765131,-84.0868044/9.977876,-84.086088/9.9785208,-84.0881641/9.979486,-84.087929)
+- [Parte 1](https://www.google.com/maps/dir/9.979486,-84.087929/9.9795352,-84.0878816/9.9800777,-84.0875004/9.988864,-84.081803/9.989429,-84.084831/9.9865562,-84.0874327/9.985588,-84.090403/9.9855343,-84.0941144/9.9869868,-84.0954401/9.9851347,-84.0976294/9.9856501,-84.0998875/9.999994,-84.093697/9.9958782,-84.0675092/9.9849376,-84.0743472/9.9811287,-84.0728917/9.9789652,-84.0723989/9.9771438,-84.0715458/9.9652136,-84.0692785/9.9716393,-84.0952956/9.9714682,-84.1008826/9.9754875,-84.0926667/9.9759551,-84.0929117/9.9785763,-84.0920085/9.9773545,-84.0918268/9.9748803,-84.0880848)
+- [Parte 2](https://www.google.com/maps/dir/9.9748803,-84.0880848/9.9762133,-84.0880807/9.9765131,-84.0868044/9.977876,-84.086088/9.9785208,-84.0881641/9.979486,-84.087929)
 
 ## Orden optimizado
 
@@ -30,8 +30,8 @@
 
 ### 2. Gerardo Fonseca
 - Dirección: Santo Domingo Centro, Heredia
-- Distancia desde anterior: 103 m
-- Duración desde anterior: 14 seg
+- Distancia desde anterior: 104 m
+- Duración desde anterior: 15 seg
 - [Waze](https://ul.waze.com/ul?ll=9.9800777%2C-84.0875004&navigate=yes)
 
 **Ruta desde la parada anterior:**
@@ -58,7 +58,7 @@
 
 ### 4. Rafael Peinado
 - Dirección: Residencial Quizarco — Av. 20A, Santo Domingo, Heredia
-- Distancia desde anterior: 636 m
+- Distancia desde anterior: 637 m
 - Duración desde anterior: 2 min 15 seg
 - [Waze](https://ul.waze.com/ul?ll=9.989429%2C-84.084831&navigate=yes)
 
@@ -72,8 +72,8 @@
 
 ### 5. Papá de Marcelo
 - Dirección: San Vicente, del Chino al Este — Santo Domingo, Heredia
-- Distancia desde anterior: 715 m
-- Duración desde anterior: 2 min 29 seg
+- Distancia desde anterior: 714 m
+- Duración desde anterior: 2 min 30 seg
 - [Waze](https://ul.waze.com/ul?ll=9.9865562%2C-84.0874327&navigate=yes)
 
 **Ruta desde la parada anterior:**
@@ -114,7 +114,7 @@
 
 ### 8. Sergio Roldán
 - Dirección: San Pablo, de Chantillí 200 Este, 50 Sur y 50 Este, Heredia
-- Distancia desde anterior: 1.29 km
+- Distancia desde anterior: 1.28 km
 - Duración desde anterior: 3 min 49 seg
 - [Waze](https://ul.waze.com/ul?ll=9.9869868%2C-84.0954401&navigate=yes)
 
@@ -157,7 +157,7 @@
 ### 11. Marvin
 - Dirección: Calle 3, Urbanización Nueva Jerusalén, San Pablo, Heredia
 - Distancia desde anterior: 2.04 km
-- Duración desde anterior: 5 min 17 seg
+- Duración desde anterior: 5 min 18 seg
 - [Waze](https://ul.waze.com/ul?ll=9.999994%2C-84.093697&navigate=yes)
 
 **Ruta desde la parada anterior:**
@@ -198,7 +198,7 @@
 
 ### 14. Rafael Zúñiga Arce
 - Dirección: Santo Tomás, de Chumis 100 Este — Santo Domingo, Heredia
-- Distancia desde anterior: 578 m
+- Distancia desde anterior: 579 m
 - Duración desde anterior: 1 min 30 seg
 - [Waze](https://ul.waze.com/ul?ll=9.9811287%2C-84.0728917&navigate=yes)
 
@@ -212,7 +212,7 @@
 
 ### 15. Luis Barrantes Sto. Tomás
 - Dirección: Santo Tomás, Heredia
-- Distancia desde anterior: 413 m
+- Distancia desde anterior: 412 m
 - Duración desde anterior: 1 min 14 seg
 - [Waze](https://ul.waze.com/ul?ll=9.9789652%2C-84.0723989&navigate=yes)
 
@@ -266,35 +266,21 @@
 
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9716393%2C-84.0952956&zoom=19&maptype=satellite&language=es&region=CR' allowfullscreen></iframe>
 
-### 19. Juan Bolaños (Papá de Kris)
-- Dirección: Santa Rosa — C. Estación, Heredia
-- Distancia desde anterior: 570 m
-- Duración desde anterior: 2 min 18 seg
-- [Waze](https://ul.waze.com/ul?ll=9.968984%2C-84.097096&navigate=yes)
-
-**Ruta desde la parada anterior:**
-
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9716393%2C-84.0952956&destination=9.968984%2C-84.097096&mode=driving&language=es&region=CR' allowfullscreen></iframe>
-
-**Vista satelital de la parada:**
-
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.968984%2C-84.097096&zoom=19&maptype=satellite&language=es&region=CR' allowfullscreen></iframe>
-
-### 20. Mario Solano (Padre e hijo) / Raymundo
+### 19. Mario Solano (Padre e hijo) / Raymundo
 - Dirección: Santa Rosa, Santo Domingo, Heredia
-- Distancia desde anterior: 638 m
-- Duración desde anterior: 2 min 3 seg
+- Distancia desde anterior: 1.17 km
+- Duración desde anterior: 3 min 26 seg
 - [Waze](https://ul.waze.com/ul?ll=9.9714682%2C-84.1008826&navigate=yes)
 
 **Ruta desde la parada anterior:**
 
-<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.968984%2C-84.097096&destination=9.9714682%2C-84.1008826&mode=driving&language=es&region=CR' allowfullscreen></iframe>
+<iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&origin=9.9716393%2C-84.0952956&destination=9.9714682%2C-84.1008826&mode=driving&language=es&region=CR' allowfullscreen></iframe>
 
 **Vista satelital de la parada:**
 
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9714682%2C-84.1008826&zoom=19&maptype=satellite&language=es&region=CR' allowfullscreen></iframe>
 
-### 21. Sergio Estrada Calderón
+### 20. Sergio Estrada Calderón
 - Dirección: Centro, por el Inbio — San Vicente, Heredia
 - Distancia desde anterior: 1.15 km
 - Duración desde anterior: 4 min 2 seg
@@ -308,7 +294,7 @@
 
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9754875%2C-84.0926667&zoom=19&maptype=satellite&language=es&region=CR' allowfullscreen></iframe>
 
-### 22. Minor (papá de Génesis)
+### 21. Minor (papá de Génesis)
 - Dirección: Centro, por el Inbio — Santo Domingo, Heredia
 - Distancia desde anterior: 83 m
 - Duración desde anterior: 30 seg
@@ -322,7 +308,7 @@
 
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9759551%2C-84.0929117&zoom=19&maptype=satellite&language=es&region=CR' allowfullscreen></iframe>
 
-### 23. Ezequiel Álvarez Cabezas
+### 22. Ezequiel Álvarez Cabezas
 - Dirección: Centro, de Palí 100 Sur y 50 Oeste — Av. 4 Jesús Jiménez, Santo Domingo, Heredia
 - Distancia desde anterior: 370 m
 - Duración desde anterior: 1 min 31 seg
@@ -336,7 +322,7 @@
 
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9785763%2C-84.0920085&zoom=19&maptype=satellite&language=es&region=CR' allowfullscreen></iframe>
 
-### 24. Erneth Castro Bermúdez
+### 23. Erneth Castro Bermúdez
 - Dirección: Centro, 50 Sur de Pulpería Gago — Av. 2 Del Comercio, Calle Blancos, Heredia
 - Distancia desde anterior: 182 m
 - Duración desde anterior: 41 seg
@@ -350,9 +336,9 @@
 
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9773545%2C-84.0918268&zoom=19&maptype=satellite&language=es&region=CR' allowfullscreen></iframe>
 
-### 25. Mauricio Carballo
+### 24. Mauricio Carballo
 - Dirección: Barrio San Martín y Calle Lencha — C. Soto, Santo Domingo, Heredia
-- Distancia desde anterior: 672 m
+- Distancia desde anterior: 673 m
 - Duración desde anterior: 2 min 33 seg
 - [Waze](https://ul.waze.com/ul?ll=9.9748803%2C-84.0880848&navigate=yes)
 
@@ -364,7 +350,7 @@
 
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9748803%2C-84.0880848&zoom=19&maptype=satellite&language=es&region=CR' allowfullscreen></iframe>
 
-### 26. Manuel Esquivel (Papá de Cami y Dani)
+### 25. Manuel Esquivel (Papá de Cami y Dani)
 - Dirección: C. 7 Damasco Villalobos, Santo Domingo, Heredia
 - Distancia desde anterior: 213 m
 - Duración desde anterior: 30 seg
@@ -378,9 +364,9 @@
 
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9762133%2C-84.0880807&zoom=19&maptype=satellite&language=es&region=CR' allowfullscreen></iframe>
 
-### 27. Victor (Mauren)
+### 26. Victor (Mauren)
 - Dirección: La Pacífica, Panad Tutti 200, 2da casa mano derecha, portón hierro juego Mimbre en cochera — C. 9, Santo Domingo, Heredia
-- Distancia desde anterior: 442 m
+- Distancia desde anterior: 441 m
 - Duración desde anterior: 1 min 24 seg
 - [Waze](https://ul.waze.com/ul?ll=9.9765131%2C-84.0868044&navigate=yes)
 
@@ -392,9 +378,9 @@
 
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.9765131%2C-84.0868044&zoom=19&maptype=satellite&language=es&region=CR' allowfullscreen></iframe>
 
-### 28. Manuel esposo de Gaby
+### 27. Manuel esposo de Gaby
 - Dirección: Condominio Los Hidalgos, Santo Domingo, Heredia
-- Distancia desde anterior: 229 m
+- Distancia desde anterior: 230 m
 - Duración desde anterior: 53 seg
 - [Waze](https://ul.waze.com/ul?ll=9.977876%2C-84.086088&navigate=yes)
 
@@ -406,10 +392,10 @@
 
 <iframe width='400' height='250' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBk4p53uyF8uPgSXwZqxneVgZpv4IoaT9s&q=9.977876%2C-84.086088&zoom=19&maptype=satellite&language=es&region=CR' allowfullscreen></iframe>
 
-### 29. Pablo (papá de Mati)
+### 28. Pablo (papá de Mati)
 - Dirección: Centro, de Pueblo de Dios 125 Sur — C. 7 Damasco Villalobos, Santo Domingo, Heredia
 - Distancia desde anterior: 340 m
-- Duración desde anterior: 53 seg
+- Duración desde anterior: 54 seg
 - [Waze](https://ul.waze.com/ul?ll=9.9785208%2C-84.0881641&navigate=yes)
 
 **Ruta desde la parada anterior:**
@@ -437,13 +423,13 @@
 
 - **Fecha:** viernes 19 de junio de 2026
 - **Hora de salida:** 9:30 PM
-- **Hora estimada de finalización:** sábado 20 de junio de 2026, 2:30 AM
-- **Hora estimada con margen:** sábado 20 de junio de 2026, 2:50 AM a sábado 20 de junio de 2026, 3:00 AM
-- **Paradas visitadas:** 29
-- **Tiempo estimado en serenatas:** 3 horas 37 min  
+- **Hora estimada de finalización:** sábado 20 de junio de 2026, 2:21 AM
+- **Hora estimada con margen:** sábado 20 de junio de 2026, 2:41 AM a sábado 20 de junio de 2026, 2:51 AM
+- **Paradas visitadas:** 28
+- **Tiempo estimado en serenatas:** 3 horas 30 min  
   _Calculado con 7.5 min por parada._
-- **Tiempo estimado manejando:** 1 hora 22 min
-- **Distancia total manejando:** 31.56 km
-- **Tiempo total estimado:** 5 horas
+- **Tiempo estimado manejando:** 1 hora 21 min
+- **Distancia total manejando:** 31.53 km
+- **Tiempo total estimado:** 4 horas 51 min
 
-> Nota: este total no incluye tiempo adicional por parqueo, espera, bajarse/subirse del carro o atrasos en carretera. Para planear con margen, conviene considerar finalizar entre **sábado 20 de junio de 2026, 2:50 AM y sábado 20 de junio de 2026, 3:00 AM**.
+> Nota: este total no incluye tiempo adicional por parqueo, espera, bajarse/subirse del carro o atrasos en carretera. Para planear con margen, conviene considerar finalizar entre **sábado 20 de junio de 2026, 2:41 AM y sábado 20 de junio de 2026, 2:51 AM**.
