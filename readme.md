@@ -18,6 +18,7 @@
 - Dirección: Centro, de la Pops 300 Este y 50 Sur — C. 7 Damasco Villalobos, Santo Domingo, Heredia
 - Distancia desde anterior: 6 m
 - Duración desde anterior: 1 seg
+- Progreso: 1/28 casas completadas (4%), faltan 27 · Salida estimada: 9:37 PM · Restante: 4 horas 44 min
 - [Waze](https://ul.waze.com/ul?ll=9.9795352%2C-84.0878816&navigate=yes)
 
 **Ruta desde la parada anterior:**
@@ -32,6 +33,7 @@
 - Dirección: Santo Domingo Centro, Heredia
 - Distancia desde anterior: 104 m
 - Duración desde anterior: 15 seg
+- Progreso: 2/28 casas completadas (7%), faltan 26 · Salida estimada: 9:45 PM · Restante: 4 horas 36 min
 - [Waze](https://ul.waze.com/ul?ll=9.9800777%2C-84.0875004&navigate=yes)
 
 **Ruta desde la parada anterior:**
@@ -46,6 +48,7 @@
 - Dirección: Quizarco — Residencial Quizarco, Santo Domingo, Heredia
 - Distancia desde anterior: 1.52 km
 - Duración desde anterior: 3 min 20 seg
+- Progreso: 3/28 casas completadas (11%), faltan 25 · Salida estimada: 9:56 PM · Restante: 4 horas 25 min
 - [Waze](https://ul.waze.com/ul?ll=9.988864%2C-84.081803&navigate=yes)
 
 **Ruta desde la parada anterior:**
@@ -60,6 +63,7 @@
 - Dirección: Residencial Quizarco — Av. 20A, Santo Domingo, Heredia
 - Distancia desde anterior: 637 m
 - Duración desde anterior: 2 min 15 seg
+- Progreso: 4/28 casas completadas (14%), faltan 24 · Salida estimada: 10:05 PM · Restante: 4 horas 15 min
 - [Waze](https://ul.waze.com/ul?ll=9.989429%2C-84.084831&navigate=yes)
 
 **Ruta desde la parada anterior:**
@@ -74,6 +78,7 @@
 - Dirección: San Vicente, del Chino al Este — Santo Domingo, Heredia
 - Distancia desde anterior: 714 m
 - Duración desde anterior: 2 min 30 seg
+- Progreso: 5/28 casas completadas (18%), faltan 23 · Salida estimada: 10:15 PM · Restante: 4 horas 5 min
 - [Waze](https://ul.waze.com/ul?ll=9.9865562%2C-84.0874327&navigate=yes)
 
 **Ruta desde la parada anterior:**
@@ -88,6 +93,7 @@
 - Dirección: Cerca de Súper Yurusti — Av. 13, Santo Domingo, Heredia
 - Distancia desde anterior: 402 m
 - Duración desde anterior: 1 min 13 seg
+- Progreso: 6/28 casas completadas (21%), faltan 22 · Salida estimada: 10:24 PM · Restante: 3 horas 57 min
 - [Waze](https://ul.waze.com/ul?ll=9.985588%2C-84.090403&navigate=yes)
 
 **Ruta desde la parada anterior:**
@@ -102,6 +108,7 @@
 - Dirección: San Vicente, La Colonia — Santo Domingo, Heredia
 - Distancia desde anterior: 412 m
 - Duración desde anterior: 1 min 24 seg
+- Progreso: 7/28 casas completadas (25%), faltan 21 · Salida estimada: 10:33 PM · Restante: 3 horas 48 min
 - [Waze](https://ul.waze.com/ul?ll=9.9855343%2C-84.0941144&navigate=yes)
 
 **Ruta desde la parada anterior:**
@@ -116,6 +123,7 @@
 - Dirección: San Pablo, de Chantillí 200 Este, 50 Sur y 50 Este, Heredia
 - Distancia desde anterior: 1.28 km
 - Duración desde anterior: 3 min 49 seg
+- Progreso: 8/28 casas completadas (29%), faltan 20 · Salida estimada: 10:44 PM · Restante: 3 horas 37 min
 - [Waze](https://ul.waze.com/ul?ll=9.9869868%2C-84.0954401&navigate=yes)
 
 **Ruta desde la parada anterior:**
@@ -130,6 +138,7 @@
 - Dirección: San Pablo, Urbanización Santa Fernanda, Heredia
 - Distancia desde anterior: 534 m
 - Duración desde anterior: 2 min 15 seg
+- Progreso: 9/28 casas completadas (32%), faltan 19 · Salida estimada: 10:54 PM · Restante: 3 horas 27 min
 - [Waze](https://ul.waze.com/ul?ll=9.9851347%2C-84.0976294&navigate=yes)
 
 **Ruta desde la parada anterior:**
@@ -144,6 +153,7 @@
 - Dirección: San Pablo, Urbanización Los Arcos — Rincón de Sabanilla, Heredia
 - Distancia desde anterior: 424 m
 - Duración desde anterior: 1 min 41 seg
+- Progreso: 10/28 casas completadas (36%), faltan 18 · Salida estimada: 11:03 PM · Restante: 3 horas 18 min
 - [Waze](https://ul.waze.com/ul?ll=9.9856501%2C-84.0998875&navigate=yes)
 
 **Ruta desde la parada anterior:**
@@ -158,6 +168,7 @@
 - Dirección: Calle 3, Urbanización Nueva Jerusalén, San Pablo, Heredia
 - Distancia desde anterior: 2.04 km
 - Duración desde anterior: 5 min 18 seg
+- Progreso: 11/28 casas completadas (39%), faltan 17 · Salida estimada: 11:16 PM · Restante: 3 horas 5 min
 - [Waze](https://ul.waze.com/ul?ll=9.999994%2C-84.093697&navigate=yes)
 
 **Ruta desde la parada anterior:**
@@ -172,6 +183,7 @@
 - Dirección: Tures, de Colegio Golden Valley 300 Sur — Santo Domingo, Heredia
 - Distancia desde anterior: 4.24 km
 - Duración desde anterior: 9 min 5 seg
+- Progreso: 12/28 casas completadas (43%), faltan 16 · Salida estimada: 11:33 PM · Restante: 2 horas 48 min
 - [Waze](https://ul.waze.com/ul?ll=9.9958782%2C-84.0675092&navigate=yes)
 
 **Ruta desde la parada anterior:**
@@ -186,6 +198,7 @@
 - Dirección: Santo Tomás, 50 Este de Iglesia Evangélica — Ruta 116, Santo Domingo, Heredia
 - Distancia desde anterior: 4.38 km
 - Duración desde anterior: 11 min 14 seg
+- Progreso: 13/28 casas completadas (46%), faltan 15 · Salida estimada: 11:51 PM · Restante: 2 horas 29 min
 - [Waze](https://ul.waze.com/ul?ll=9.9849376%2C-84.0743472&navigate=yes)
 
 **Ruta desde la parada anterior:**
@@ -200,6 +213,7 @@
 - Dirección: Santo Tomás, de Chumis 100 Este — Santo Domingo, Heredia
 - Distancia desde anterior: 579 m
 - Duración desde anterior: 1 min 30 seg
+- Progreso: 14/28 casas completadas (50%), faltan 14 · Salida estimada: 12:00 AM · Restante: 2 horas 20 min
 - [Waze](https://ul.waze.com/ul?ll=9.9811287%2C-84.0728917&navigate=yes)
 
 **Ruta desde la parada anterior:**
@@ -214,6 +228,7 @@
 - Dirección: Santo Tomás, Heredia
 - Distancia desde anterior: 412 m
 - Duración desde anterior: 1 min 14 seg
+- Progreso: 15/28 casas completadas (54%), faltan 13 · Salida estimada: 12:09 AM · Restante: 2 horas 12 min
 - [Waze](https://ul.waze.com/ul?ll=9.9789652%2C-84.0723989&navigate=yes)
 
 **Ruta desde la parada anterior:**
@@ -228,6 +243,7 @@
 - Dirección: Santo Tomás — Carretera a Santo Tomás, Santo Domingo, Heredia
 - Distancia desde anterior: 283 m
 - Duración desde anterior: 50 seg
+- Progreso: 16/28 casas completadas (57%), faltan 12 · Salida estimada: 12:17 AM · Restante: 2 horas 3 min
 - [Waze](https://ul.waze.com/ul?ll=9.9771438%2C-84.0715458&navigate=yes)
 
 **Ruta desde la parada anterior:**
@@ -242,6 +258,7 @@
 - Dirección: Tibás — Villafranca, San Juan, San José
 - Distancia desde anterior: 4.33 km
 - Duración desde anterior: 7 min 57 seg
+- Progreso: 17/28 casas completadas (61%), faltan 11 · Salida estimada: 12:33 AM · Restante: 1 hora 48 min
 - [Waze](https://ul.waze.com/ul?ll=9.9652136%2C-84.0692785&navigate=yes)
 
 **Ruta desde la parada anterior:**
@@ -256,6 +273,7 @@
 - Dirección: Santa Rosa, 1 de Mayo — cerca de Súper Nayla, Santo Domingo, Heredia
 - Distancia desde anterior: 4.26 km
 - Duración desde anterior: 9 min 19 seg
+- Progreso: 18/28 casas completadas (64%), faltan 10 · Salida estimada: 12:50 AM · Restante: 1 hora 31 min
 - [Waze](https://ul.waze.com/ul?ll=9.9716393%2C-84.0952956&navigate=yes)
 
 **Ruta desde la parada anterior:**
@@ -270,6 +288,7 @@
 - Dirección: Santa Rosa, Santo Domingo, Heredia
 - Distancia desde anterior: 1.17 km
 - Duración desde anterior: 3 min 26 seg
+- Progreso: 19/28 casas completadas (68%), faltan 9 · Salida estimada: 1:01 AM · Restante: 1 hora 20 min
 - [Waze](https://ul.waze.com/ul?ll=9.9714682%2C-84.1008826&navigate=yes)
 
 **Ruta desde la parada anterior:**
@@ -284,6 +303,7 @@
 - Dirección: Centro, por el Inbio — San Vicente, Heredia
 - Distancia desde anterior: 1.15 km
 - Duración desde anterior: 4 min 2 seg
+- Progreso: 20/28 casas completadas (71%), faltan 8 · Salida estimada: 1:12 AM · Restante: 1 hora 9 min
 - [Waze](https://ul.waze.com/ul?ll=9.9754875%2C-84.0926667&navigate=yes)
 
 **Ruta desde la parada anterior:**
@@ -298,6 +318,7 @@
 - Dirección: Centro, por el Inbio — Santo Domingo, Heredia
 - Distancia desde anterior: 83 m
 - Duración desde anterior: 30 seg
+- Progreso: 21/28 casas completadas (75%), faltan 7 · Salida estimada: 1:20 AM · Restante: 1 hora 1 min
 - [Waze](https://ul.waze.com/ul?ll=9.9759551%2C-84.0929117&navigate=yes)
 
 **Ruta desde la parada anterior:**
@@ -312,6 +333,7 @@
 - Dirección: Centro, de Palí 100 Sur y 50 Oeste — Av. 4 Jesús Jiménez, Santo Domingo, Heredia
 - Distancia desde anterior: 370 m
 - Duración desde anterior: 1 min 31 seg
+- Progreso: 22/28 casas completadas (79%), faltan 6 · Salida estimada: 1:29 AM · Restante: 52 min 10 seg
 - [Waze](https://ul.waze.com/ul?ll=9.9785763%2C-84.0920085&navigate=yes)
 
 **Ruta desde la parada anterior:**
@@ -326,6 +348,7 @@
 - Dirección: Centro, 50 Sur de Pulpería Gago — Av. 2 Del Comercio, Calle Blancos, Heredia
 - Distancia desde anterior: 182 m
 - Duración desde anterior: 41 seg
+- Progreso: 23/28 casas completadas (82%), faltan 5 · Salida estimada: 1:37 AM · Restante: 43 min 59 seg
 - [Waze](https://ul.waze.com/ul?ll=9.9773545%2C-84.0918268&navigate=yes)
 
 **Ruta desde la parada anterior:**
@@ -340,6 +363,7 @@
 - Dirección: Barrio San Martín y Calle Lencha — C. Soto, Santo Domingo, Heredia
 - Distancia desde anterior: 673 m
 - Duración desde anterior: 2 min 33 seg
+- Progreso: 24/28 casas completadas (86%), faltan 4 · Salida estimada: 1:47 AM · Restante: 33 min 56 seg
 - [Waze](https://ul.waze.com/ul?ll=9.9748803%2C-84.0880848&navigate=yes)
 
 **Ruta desde la parada anterior:**
@@ -354,6 +378,7 @@
 - Dirección: C. 7 Damasco Villalobos, Santo Domingo, Heredia
 - Distancia desde anterior: 213 m
 - Duración desde anterior: 30 seg
+- Progreso: 25/28 casas completadas (89%), faltan 3 · Salida estimada: 1:55 AM · Restante: 25 min 56 seg
 - [Waze](https://ul.waze.com/ul?ll=9.9762133%2C-84.0880807&navigate=yes)
 
 **Ruta desde la parada anterior:**
@@ -368,6 +393,7 @@
 - Dirección: La Pacífica, Panad Tutti 200, 2da casa mano derecha, portón hierro juego Mimbre en cochera — C. 9, Santo Domingo, Heredia
 - Distancia desde anterior: 441 m
 - Duración desde anterior: 1 min 24 seg
+- Progreso: 26/28 casas completadas (93%), faltan 2 · Salida estimada: 2:04 AM · Restante: 17 min 2 seg
 - [Waze](https://ul.waze.com/ul?ll=9.9765131%2C-84.0868044&navigate=yes)
 
 **Ruta desde la parada anterior:**
@@ -382,6 +408,7 @@
 - Dirección: Condominio Los Hidalgos, Santo Domingo, Heredia
 - Distancia desde anterior: 230 m
 - Duración desde anterior: 53 seg
+- Progreso: 27/28 casas completadas (96%), faltan 1 · Salida estimada: 2:13 AM · Restante: 8 min 39 seg
 - [Waze](https://ul.waze.com/ul?ll=9.977876%2C-84.086088&navigate=yes)
 
 **Ruta desde la parada anterior:**
@@ -396,6 +423,7 @@
 - Dirección: Centro, de Pueblo de Dios 125 Sur — C. 7 Damasco Villalobos, Santo Domingo, Heredia
 - Distancia desde anterior: 340 m
 - Duración desde anterior: 54 seg
+- Progreso: 28/28 casas completadas (100%), faltan 0 · Salida estimada: 2:21 AM · Restante: 15 seg
 - [Waze](https://ul.waze.com/ul?ll=9.9785208%2C-84.0881641&navigate=yes)
 
 **Ruta desde la parada anterior:**
